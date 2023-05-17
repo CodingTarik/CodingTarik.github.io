@@ -1,0 +1,236 @@
+<html>
+<head>
+  <title>Mensa Darmstadt</title>
+  <style>
+    /* Farbpalette im Google-Stil */
+    :root {
+      --primary-color: #4285F4;
+      --secondary-color: #34A853;
+      --accent-color: #EA4335;
+      --neutral-color: #F8F9FA;
+    }
+
+    /* Allgemeine Styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: var(--neutral-color);
+    }
+
+    .container {
+	  /*max-width: 1300px;*/
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    h1 {
+      color: var(--primary-color);
+      text-align: center;
+    }
+
+    .scrolling-wrapper {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    th,
+    td {
+      padding: 10px;
+      border: 1px solid #ddd;
+      text-align: left;
+    }
+
+    th {
+      background-color: var(--primary-color);
+      color: #fff;
+    }
+
+    td {
+      background-color: #fff;
+    }
+
+    /* Animationen */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+
+    .fadeIn {
+      animation: fadeIn 1s ease;
+    }
+
+    @keyframes slideIn {
+      from {
+        transform: translateY(-20px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    .slideIn {
+      animation: slideIn 1s ease;
+    }
+
+    /* Menüleiste */
+    .navbar {
+      background-color: var(--primary-color);
+      padding: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .navbar a {
+      color: #fff;
+      text-decoration: none;
+      margin-right: 10px;
+    }
+
+    .navbar a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+  <body>
+  <div class="container">
+    <h1 id="home" class="fadeIn">Willkommen auf der inofiziellen Mensa-Webseite</h1>
+    <div id="about" class="slideIn">
+      <h2>Was findet man hier?</h2>
+      <p>Hier findest du die Gerichte der nächsten Wochen.</p>
+    </div>
+	<div class="slideIn">
+       <table id="table">
+      <!-- Hier kommt der Inhalt der Tabelle hin -->
+    </table>
+    </div>
+	
+  </div>
+</body>
+<script>
+         const url = 'https://mensa.k8s.incloud.de/graphql';
+         const headers = new Headers();
+         const ban = ["__typename", "lastUpdated", "dish", "feedback", "id"];
+         headers.append('Content-Type', 'application/json; charset=utf-8');
+         headers.append('Authorization', '0d5aa541-21f7-4eab-b4a0-b761dfa2eb92');
+         
+         const data = {
+           operationName: 'MenuItems',
+           variables: {
+             canteenId: '1',
+             status: 'STUDENT',
+             lang: 'DE',
+             minDate: '2023-01-01',
+             maxDate: '2099-12-20'
+           },
+           query: 'query MenuItems($canteenId: ID!, $status: UserStatus!, $lang: Language!, $minDate: String, $maxDate: String) { menuItems(canteen: $canteenId, minDate: $minDate, maxDate: $maxDate) { __typename id date dish { __typename id type rating ratingCount dispositionPriority name(language: $lang) price(status: $status) image { __typename id url thumbUrl } allergics additionals feedback { __typename id tasteRating priceRating message } lastUpdated } issuingOffice { __typename id name canteenId } lastUpdated } }'
+         };
+         
+         const requestOptions = {
+           method: 'POST',
+           headers: headers,
+           body: JSON.stringify(data),
+         };
+         
+         fetch(url, requestOptions)
+           .then(response => response.json())
+           .then(data => {
+             const table = document.getElementById('table');
+             const menuItems = data.data.menuItems;
+			 menuItems.sort((a, b) => new Date(a.date) - new Date(b.date));
+             if (menuItems.length > 0) {
+               // Erstellen der Tabellenüberschrift
+               const headerRow = document.createElement('tr');
+               const dish = menuItems[0].dish;
+               for (const key in menuItems[0]) {
+                 if (key === 'dish') { // JSON-Felder aus dish als separate Spalten hinzufügen
+                   for (const dishKey in dish) {
+                     if (!ban.includes(dishKey)) {
+                       const th = document.createElement('th');
+                       th.textContent = dishKey;
+                       headerRow.appendChild(th);
+                     }
+                   }
+                 } else {
+                   const th = document.createElement('th');
+                   th.textContent = key;
+                   if (!ban.includes(key)) {
+                     headerRow.appendChild(th);
+                   }
+                 }
+               }
+               table.appendChild(headerRow);
+         
+               // Erstellen der Tabellenzeilen für jede MenuItem
+               menuItems.forEach(menuItem => {
+                 const row = document.createElement('tr');
+                 const dish = menuItem.dish;
+         const office = menuItem.issuingOffice;
+                 for (const key in menuItem) {
+                   if (key === 'dish') { // JSON-Felder aus dish als separate Spalten hinzufügen
+               for (const dishKey in dish) {
+         if (!ban.includes(dishKey)) {
+         const td = document.createElement('td');
+         if(dishKey === 'image' && dish[dishKey] != null) {
+         const img = document.createElement('img');
+         img.src = dish[dishKey].url;
+         img.width = 200;
+         img.height = 130;
+         td.appendChild(img);
+         }
+         if(dishKey != 'image')
+         td.textContent = dish[dishKey]; 
+         row.appendChild(td);
+         }
+         }
+         } else if(key === 'issuingOffice') {
+         for(const key in office) {
+         const td = document.createElement('td');
+         td.textContent = office[key];
+         if(key == "name")
+         row.appendChild(td);
+         }
+         
+         }
+         else {
+         
+         const td = document.createElement('td');
+         if (!ban.includes(key)) {
+         td.textContent = menuItem[key];
+         if (key === 'date' || key == 'lastUpdated') { // Umwandeln des Timestamps in ein lesbares Datum
+                     const date = new Date(menuItem[key] * 1000); // Multiplizieren mit 1000, da JavaScript Timestamps in Millisekunden erwartet
+                     td.textContent = date.toLocaleDateString('en-GB'); // Formatierung des Datums
+                   }
+         row.appendChild(td);
+         }
+         }
+         }
+         table.appendChild(row);
+         });
+         } else {
+         // Keine Ergebnisse gefunden
+         const row = document.createElement('tr');
+         const td = document.createElement('td');
+         td.textContent = 'Keine Ergebnisse gefunden';
+         td.colSpan = 100; // Setze die Colspan auf eine hohe Zahl, um die volle Breite der Tabelle abzudecken
+         row.appendChild(td);
+         table.appendChild(row);
+         }
+         })
+         .catch(error => {
+         console.error('Fehler beim Abrufen der Daten:', error);
+         });
+      </script>
+</html>
