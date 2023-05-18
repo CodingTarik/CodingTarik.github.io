@@ -2,8 +2,8 @@
 title: Getting Started
 author: cotes
 date: 2019-08-09 20:55:00 +0800
-categories: [Blogginga, a, b, d]
-tags: [getting startedd]
+categories: [studies, robotic]
+tags: [robotic]
 pin: true
 ---
 
