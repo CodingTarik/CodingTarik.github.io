@@ -5,7 +5,7 @@ categories: [studies, robotic]
 tags: [capabilities, Linux security]
 title: "Capabilities in Linux"
 image: 
-    path: \assets\lib\linux cap.jpg
+    path: /assets/postimgs/linux cap.jpg
 ---
 
 # Exploring the Capabilities in Linux

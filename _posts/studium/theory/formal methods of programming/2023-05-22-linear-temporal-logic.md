@@ -158,7 +158,7 @@ To express specific properties, such as whether 'n' will become greater than 0 e
 
 # Linear Temporal Logic
 
-![Kripke Structures](/assets/lib/Kripke%20Structures.png)
+![Kripke Structures](/assets/postimgs/Kripke%20Structures.png)
 *[Kripke Structure Source: Rainer Hähnle]*
 
 In the context of Kripke structures, the following statements apply:

@@ -7,7 +7,7 @@ tags: [Networking, Internet]
 categories: [Networking]
 math: true
 image:
-  path: /assets/lib/tcp.jpg
+  path: /assets/postimgs/tcp.jpg
 ---
 
 # The Transport Layer: Enabling End-to-End Communication
