@@ -1,0 +1,136 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "jekyll",
+  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "_posts",
+      "path": "[[workspace]]/_posts"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "Linux security",
+    "capabilities",
+    "robotic",
+    "typography"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "Blogging",
+    "Demo",
+    "robotic",
+    "studies"
+  ],
+  "frontMatter.content.snippets": {
+    "Filepath": {
+      "description": "",
+      "body": "`Gemfile.lock`{: .filepath}",
+      "fields": []
+    },
+    "Youtube": {
+      "description": "",
+      "body": "{% include embed/youtube.html id='Balreaj8Yqs' %}",
+      "fields": []
+    },
+    "Table": {
+      "description": "",
+      "body": [
+        "| Company                      | Contact          | Country |",
+        "|:-----------------------------|:-----------------|--------:|",
+        "| Alfreds Futterkiste          | Maria Anders     | Germany |",
+        "| Island Trading               | Helen Bennett    | UK      |",
+        "| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |"
+      ],
+      "fields": []
+    },
+    "Prompt Tip": {
+      "description": "",
+      "body": [
+        "> An example showing the `tip` type prompt.",
+        "{: .prompt-tip }"
+      ],
+      "fields": []
+    },
+    "Prompt Info": {
+      "description": "",
+      "body": [
+        "> An example showing the `info` type prompt.",
+        "{: .prompt-info }"
+      ],
+      "fields": []
+    },
+    "Prompt Warning": {
+      "description": "",
+      "body": [
+        "> An example showing the `warning` type prompt.",
+        "{: .prompt-warning }"
+      ],
+      "fields": []
+    },
+    "Prompt Danger": {
+      "description": "",
+      "body": [
+        "",
+        "> An example showing the `danger` type prompt.",
+        "{: .prompt-danger }"
+      ],
+      "fields": []
+    },
+    "Todo": {
+      "description": "",
+      "body": [
+        "- [ ] Job",
+        "  + [x] Step 1",
+        "  + [x] Step 2",
+        "  + [ ] Step 3"
+      ],
+      "fields": []
+    }
+  }
+}
