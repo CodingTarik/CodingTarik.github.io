@@ -1,0 +1,16 @@
+---
+permalink: /robots.txt
+# The robots rules
+---
+
+User-agent: *
+
+Disallow: /norobots/
+Disallow: /impressum
+Disallow: /impressum/
+Disallow: /datenschutz
+Disallow: /datenschutz/
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
