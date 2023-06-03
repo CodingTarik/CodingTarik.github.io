@@ -169,14 +169,16 @@ defaults:
 sass:
   style: compressed
 
+
 compress_html:
-  clippings: false
-  comments: false
-  endings: false
-  profile: false
-  blanklines: false
+  clippings: []
+  comments: []
+  endings: []
   ignore:
-    envs: [development]
+    envs: [development, production]
+  blanklines: false
+  profile: false
+  startings: []
 
 exclude:
   - "*.gem"
