@@ -170,9 +170,9 @@ sass:
   style: compressed
 
 compress_html:
-  clippings: all
-  comments: all
-  endings: all
+  clippings: false
+  comments: false
+  endings: false
   profile: false
   blanklines: false
   ignore:
