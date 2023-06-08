@@ -1,0 +1,2031 @@
+divocred:geschieden
+separated:getrennt
+widowed:verwitwet
+vital:lebenswichtig
+tonsil:Mandel(im Rachen)
+bowels:(der) Darm Därme
+artery:Arterie
+tissue:Körpergewebe, Zellgewebe
+cheek:Wange
+jaw:Kiefer
+limb:Körperglied (Arm, Bein)
+joint:Gelenk
+wrist:Handgelenk
+palm:Handfläsche
+waist:Taille
+heel:Ferse
+fertile:fruchtbar,zeugungsfähig
+pregnancy:Schwangerschaft
+contraceptive:Verhütungsmittel
+abortion:Schwangerschaftsabbruch
+delivery:Geburtsvorgang
+youth:Jugend
+mature:reif
+grown-up:erwachsen
+aged:im Alter von ..., alt
+middle-aged:im mittleren alder
+drown:ertrinken
+fatal:tödlich
+funeral:Beerdigung
+cementery,graveyard:Friedhof
+crematorium:Krematorium
+vision:Sehkraft
+short(BE) near(AE)-sighted:kurzssichtig
+long(BE) far(AE)-sighted:weitsichtig
+glance:schauen, blicken, Blick
+scent:Duft
+smooth:glatt und weich
+pace:Tempo
+head:in eine bestimmte Richtung gehen
+wander:ziellos umherwandern
+hurry:Eile
+rush:hasten, hetzen
+slip:ausrutschen
+lift:hochheben
+drag:ziehen, schleppen
+reach:greifen
+seize:ergreifen, packen
+rigth-handed:rechtshändig
+bend bent bent:sich beugen, bücken
+spin, spun, spun: sich schnell drehen
+twist:drehen, winden
+shake, shook, shaken: schütteln
+gently:sanft, zätlich
+tremble:zittern, beben
+strip:sic ausziehen
+lean, leant, leant:sic lehnen
+kneel, knelt, knelt:knien
+yawn:gähnen
+breathe:atmen
+breath:Atemzug
+hit, hit, hit:schlagen
+knock:klopfen
+bump:stoßen
+slam:zuknallen
+punch:boxen
+squeeze:pressen, quetschen
+tear, tore, torn ... (up) :zerreißen
+nod:nicken
+shout:brüllen
+swallow:schlucken
+spit, spat, spat:schlucken
+looks:attraktives aussehen
+slim:schlank
+thin:dünn,mager
+handsome:gut aussehend, hübsch
+good:gut
+pretty:hübsch
+lovely:wunderschön
+plain:nict attraktiv
+pale:blass
+suntan:Sonnenbräune
+fair:hell blond
+dark:dunkel
+curly:lockig, gewellt
+straight:glatt
+greasy:fettig, ölig, schmierig
+bald:kahl, glatköpfig
+flannel(BE), washcloth (AE):waschlappen
+toothbrush:zahnbürste
+do, did,done:haare machen
+hairdo:Damenfirseur
+hairdresser:Friseur(in)
+shave:Rasus rasieren
+shaver:Elektrorasierer
+razor:Rasiermesser
+nail polish:Nagellack
+tissue:Papiertaschentuch
+well:gesund
+recover:sich erholen
+ill:krank
+illness:kürzere Krankheit
+disease:lange Krankheit, Leiden
+condition:Leiden
+attack:Anfall
+upset:verdroben
+sick:schlecht, übel
+throw up, thrown up, thrown up:erbrechen, sich übergeben
+inflammation:Entzündung
+mesles:Masern
+mups:Mups
+pneumonia:Lungenentzündung
+diabetes:Diabetes
+cold:Erkältung, Schnupfen
+cough:Husten
+flu:Grippe
+runny:laufende (Nase)
+cough:husten
+sweat:Schweiß, Schwitzen
+hay fever:Heuschnupfen
+rash:Ausschlag
+suffer from:leiden an
+ulcer:(Magen)Geschwür
+disorder:Funktionsstörung
+eating disorder:essstörung
+anorexia:magersucht
+heart attack:Herzanfall, Herzinfarkt
+heart disease:Herzkrankheit
+blood preasure:Blutddruck
+stroke:Schlaganfall
+severe:schwer, schlimm
+hurt, injued:verletzten verletzt
+bruise:Prellung, prellen
+cut, cut, cut:schneiden
+break broke broken:sich brechen
+fracture:Knochenbruch
+wound:verwunden, verletzten
+first aid:erste Hilfe
+bandage:Verband
+plaster:Pflaster
+cast:Gipsverband
+hurt, hurt, hrtz:schmerzen
+pain:stechender schmerz
+stiff:steif
+headache:Kopfschmerzen
+ache: (länger anhaltende) schmerzen
+ache:schmerzen, wehtun
+stomach ache:bauchschmerzen
+backacke:rückenschmerzen
+toothache:Zahnschmerzen
+sore:schmerzend, entzündet
+tender:empfindlich, zart
+swollen:geschwollen
+inflamed:entzündet und geschwollen
+pass out:ohnmächtig werden
+dizzy:schwindelig werden
+faint:in Ohnmacht fallen
+come to, came to, come to:wieder zu Bewusstsein kommen
+mad BE, crazy AE:verrückt
+well-balanced:sensibel und psychisch stabil
+mentally:psychisch, seelisch
+sane:geistig gesund, normal
+insane:verrückt, geisteskrank
+attention:Behandlung, Versorgung
+health care:Gesundheitsfürsorge
+surgery:Sprechzimmer, Arztpraxis, die Sprechstunde
+doctors office:Arztpraxis
+office hours:Sprechstunden
+ambulance:Krankenwagen
+hospital:Krankenhaus
+admit:einliefern, aufnemen
+ward:Krankenstation
+operatin theathre, operating room AE:Operationssaal
+injection, shot:Spritze, Injektion
+remedy:Heilmittel, Hausmittel
+cure:Heilmittel, Heilung
+prescribe:verschreiben, verordnen
+prescription:Rezept, Verordnung
+medication:Medikamente
+drugstore:Drogerie, Apoteke
+relief:Linderung, Erleichterung
+cure:heilen
+packet:Schachtel
+pipe:Pfeife
+fag:Kippe
+tobacco:Tabak
+sober:nüchtern
+traffic:illegaler Drogenhandel
+stoned:zugedröhnt
+kick:aufhören, aufgeben
+stop:aufhören
+detox:Entgiftung
+withdrawal:Alkohol-, Drogenentzug
+mood:Stimmung, Laune
+spirit:Geist, Stimmung
+fond:liebevoll, zärtlich
+affection:Zuneigung
+tender:zärtlich
+mad:Wahnsinning
+fancy:attraktiv finden, auf (jdn) stehen
+appeal:Reiz, Anziehungskraft, reizen, anziehen
+hated:Hass
+contempt:Verarchtung
+prejudice:Vorurteil
+jealous:eifersüchtig, neidisch
+envious:neidisch
+envy:Neid, beneiden
+anxious:ungeduldig, begierig
+excited:aufgeregt
+keen:scharf darauf sein, begeistert
+willing:bereit, willens
+look forward to:sich frauen auf
+eager:ungeduldig, begierig
+unwilling:nicht gewillt, bereit
+anxious:nervös
+afraid:besorg
+upset:bestützt, aufgebracht
+tension:emotionale Anspannung
+anxiety:Angst, Sorge
+tense:emotional angespannt
+fear:Befürchtung, Furcht
+cared:verängstigt, angstvoll
+frightened:angsterfüllt, erschroken
+laughter:Gelächter
+cheer up:aufmuntern
+humour:Humor
+happiness:Glück
+joy:Freude
+enjoy:genießen
+enthusiastic:begeistert
+enthusiasm:Enthusiasmus, Begeisterung
+delight:Freude, Vergnügen
+statisfy:zufrieden stellen, befriedigen
+statisfaction:Zufriedenheit, Befriedigung
+statisfactory:zufriedenstellend
+statisfied:zufrieden
+content:zufrieden
+disstatisfied:unzufrieden
+bear, bore, borne:ertragen
+suffer:erleiden, leiden
+suffer from:an etw. leiden
+desperate:verzweifelt
+desoair:Verzweifelung
+grief:Trauer, tiefer Kummer
+comfort:trösten
+weep, wept, wept:weinen, Tränen vergießen
+long for:sich sehen nach
+pity:Bedeuern, Mitleid
+bother:beunruhigen, stören, belästigen
+distrub:stören
+annoying:ärgerlicht, lästig
+anger:zorn, wut
+angrily:ärgerlich, verägert, wütend
+hostile:feindlich
+furious:sehr wütend
+rage:Wut, Rasen
+fit:Anfall
+temper:Laune, Jähzorn
+blame:die Schul geben
+guilty:schuldig
+fault:Schuld
+embarassed:verlegen, peinlich berührt
+embarassing:peinlich
+guilt:Schuld
+ashamed:beschämd
+relief:Erleichterung
+sigh:Seufzer, seufzen
+appreciate:schätzen
+grateful:Dankbar
+mind:Geist;Meinung;Entschluss
+mental:geistig
+come up with,came up with, come:auf etw. kommen, sich etw. ausdenken
+reality check:Augenöffner
+conscious:bewusst
+realize:bewusst
+come to, came to, come to:einfallen, bewusst werden
+sensible:vernünftig
+reason:Grund, Vernunft
+reasonable:vernünftig, einsichtig
+grasp:erfasse, begreifen
+tendency:Neigung
+fault:Fehler, Schwäche
+self, selves:das ich, das selbst
+brave:mutig, tapfer
+courage:Mut, Tapferkeit, Courage
+superior:überheblich
+cautious:vorsichtig, umsichtig
+nosy:neugierig
+ambition:Ehrgeiz, Ziel, Ambition
+responsible:Verantwortungsvoll/-bewusst
+duty:Pflicht
+silly:albern
+joke:Witz
+amusing:lustig, unterhaltsam
+cheerful:fröhlich
+lively:lebhaft
+pleasant:angenehm
+charming:entzückend, liebenswürdig
+sploit:verwöhnt, verzogen
+generous:großzügig
+stingy:geizig, knickerig
+decent:anständig
+cruel:grausam
+nasty:gemein, gehässig
+modest:bescheiden
+moderate:gemäßigt, vernünftig
+bold:selbstbewusst, forsch
+bright:aufgewckt, intelligent, gescheit
+wise:weise
+fool:naar, dummkopf
+foolish:unklug, dumm, täricht
+handle:fertige werde nit, meistern
+cope:zurechtkommen, fertig werden
+put up with: (etw./jdn.) tolerieren, erdulden
+give in, gave in, given in:nachgeben
+depend on:auf jdn. angeweisen sein/sich auf jemanden verlassen
+rely on:sich auf jdn/etwas verlassen
+carry on:weitermachen
+chance:zufall
+purpose:absicht
+approve:gutheißen
+disapprove:schlecht finden, missbiligen
+encourage:ermutigen
+discourage:jdn. von etw. abrate
+stpre:lagern. aufbewahren, Lager
+tie:Konservendose
+can:Dose
+groceries:Lebensmittel
+tinned BE, canned AE:in Dosen, Dosen-
+pear:Birne
+lemon:Zitrone
+cherry:Kirche
+raspberry:Himbeere
+vegetable:Gemüse
+potato:Kartoffel
+crips:Kartoffelchip
+baked beans:weiße Bohnen
+cabbage:Kohl, Kraut
+lettuce:Blattsalat
+cucumber:Gurke
+slice:scheibe
+roll:Brötchen
+flour:Mehl
+loaf:Laib
+bar:Tafel, Riegel
+cereal:Getreideflocken
+cornflakes:Cornflakes
+preserve:konservieren, einmachen
+dairy:Molkerei-, Milch-
+veal:Kalbfleisch
+mince BE, ground beef:Hackfleisch
+liver:Leber
+bacon:durchwachxener Speck
+ham:Schinken
+chop:Kotlett
+chicken:Hähnchen
+lean:Mager, fettarm
+fatty:fett(haltig)
+mustard:Senf
+vinegar:Essig
+mint:Minze
+garlic:Knoblauch
+soft drink:alkoholfreie Getränke
+non-alcoholic:alkoholfrei
+bitter:Bitter
+pint:0,57liter
+barel:Fass
+draught:vom Fass
+bottled:in der Flasche, Flaschen-
+whisk(e)y:Whisk(e)y
+boil:(in Wasser) kochen, sieden
+fry:braten
+rare:blutig, nicht durchgebraten
+bake:backen
+burn, burnt, burnt:anbrennen (lassen)
+spoil, spoilt, spoilt:verderben, ruinieren
+grill, broil (AE): im Ofen grillen
+well-done:durchgebraten
+steak:steak
+roast:gebraten, Brat-, -braten
+stir:umrühren
+mix:mischen, verrühren
+beat, beat, beaten:schlagen
+add:hinzufügen
+gradually:allmählich, langsam, in kleinen Mengen
+squeeze:ausdrücken, auspressen
+spread, spread, spread:(auf)streichen
+blend:vermischen, vermengen
+peel:schälen, pellen
+mash:zerdrücken, stampfen
+sauce:soße
+season:würzen, abschmecken
+toss:mischen, anmachen
+gravy:Bratensoße
+pancake:Pfannkuchen
+syrup:Sirup
+pastry:süßes Gebäck
+doughnut:donut
+sweet:Süßigkeit, Bonbon
+candy AE:süßigkeit, Bonbon
+chewing gum:Kaugummi
+pot:Topf, Kanne
+pan:Pfanne
+lid:Deckel
+teapot:Teekanne
+saucepan:Kochtopf mit Stiel
+frying pan:Bratpfanne
+kettle:Wasserkessel
+lay, laid, laid:decken
+set, set, set:decken
+dis:Servierteller
+plate:Teller
+bowl:Tasse, Schale, Dose
+mug:Becher
+teacup:Teetasse
+saucer:Untertasse
+tray:Tablett
+fork:Gabel
+spoon:Löffel
+tablespoon:Esslöffel
+teaspoon:Teelöffel
+supper:das Abendessen
+barbecue:Grillessen
+eat out, ate out, eaten out:essen
+try:versuchen, probieren
+pass:hin, herreichen
+sip:sippen, schlürfen
+pur:eingießen
+course:Gang (bei einem Essen)
+dish:Gericht
+soup:Suppe
+main:Haupt-
+dessert:Nachspeise
+starter:Vorspeise
+sweet:süße Nachspeise
+pudding:Süßspeise, Nachtisch
+leftovers:Reste (von früheren Mahlzeiten)
+flavour:Geschmacksrichtung, Sorte
+taste:Geschmack, Schmecken
+fantastic:wunderbar
+mild:mild
+bitter:bitter
+marvellous:wunderbar, großartig
+disgusting:widerlich, ekelhaft
+spicy:würzig
+tender:zart
+fabric:Stoff, Gewerbe
+cotton:Baumwolle
+leather:Leder
+fibre:Textfilfaser
+silk:Seide, Seiden-
+linen:Leinen- Wäsche, Leinne
+synthethic:synthethisch
+put on, put on, put on:anziehen
+dress:sich anziehen, kleiden
+smart:schick,elegant
+sharp:schick, elegant
+take off, took off, taken off:etw. ausziehen sich ausziehen
+button:Knopf
+do up, did up, done up:zumachen
+zip:Reißverschluss
+zipper:Reißverschluss
+zip up:)Reißverschluss) zumachen
+undo:öffnen, aufmachen
+unzip:(Reißverschluss) aufmachen, öffnen
+fashion:Mode
+latest:neustet
+fashionable:modisch
+old-fashioned:altmodisch, veraltet
+design:Entwurft
+change:(Kleider)wechsel, (Kleider) wechseln
+clothing:Kleidung, Textilien
+dress:Kleid
+dress:Kleidung
+skirt:Rock
+blouse:Bluse
+tailor:Schneider
+pattern:Muster
+spot:Fleck, Tupfen
+stripe:Streifen
+dot:kleiner Farbpunkt
+suit:Anzug, Hosenanzug
+jacket:Jacke, Jackett
+trousers:lange Hose(n)
+plants:lange Hose(n)
+shirt:Hemd
+tie:Krawatte
+waistcoat:Weste
+vest AE:Weste
+sleeve:Ärmel
+sweater:Pullover
+cardigan:Strickjacke
+belt:Gürtel
+pocket:Tasche
+tights:Strumpfhose(n)
+stocking:Strumpf
+sock:Socke
+glove:Handschuh
+ubrella:Regenschirm
+purse:kleiner Geldbeutel, Handtasche
+shoe:Schuh
+boot:Stiefel
+boot:Stiefel
+tie:binden
+handbag:Handtasche
+wallet:Brieftasche
+shoelace:Schnürsenkel
+underwar:Unterwäsche
+briefs:kurze, enge Damen, Herrenunterhose
+pants:Damen, Herrenunterhose
+panties:Damenslips
+vest:Unterhemd
+undershirt:Unterhemd
+slip:Unterrock
+bra:BH, Büstenhalten
+nightdress:Nachthemd
+nightie:Nachthemd
+pyjamas:Sclafanzug
+swimsuit:Badeanzug
+trunks:Badehose(n)
+jewellery:Schmuck
+watch:Armbanduhr
+earring:Ohrring
+pierce:piercen, Haut durchstehen
+need:brauchen
+boutique:kleines Modegeschäft
+shop around:sich in mehreren Läden umsehen
+bookshop BE, bookstore:Buchladen
+department store:Warenhaus, Kaufhaus
+window-shopping:Schaufensterbummeln
+serve:bedienen
+shop assistant BE, salesperson, salesperson pl.:Verkäufer(in)
+counter:Ladentisch, Tresen
+shopkeeper:Ladenbesitzer
+self-service:Selbstbedienung
+baker:Bäcker(in)
+butcher:Metzger(in), Fleischer(in)
+grocer:Lebensmittelhändler(in)
+greengrocer:Obst- und Gemüsehändler
+open:geöffnet, offen
+closed:geschlossen
+shut:geschlossen
+open:öffnen
+setup, set up, set up:eröffnen, aufmachen
+close down:(ein Geschäft) schließen, zumachen
+sales:Schlussverkauf
+reduction:Senkung, Ermäßigung
+off: (Rabatt) auf/von
+bargain:Gelegenheitskauf, Schnäppchen
+economical:sparsam, günstig
+second-hand:gebraucht
+discount:Rabatt
+try on:anprobieren
+ready-made:seriengefertig, Konfektions
+go with, went with, gone with:passen zu
+match:zusammenpassen
+suit:gut stehen
+loose:weit
+charge:in Rechnung stellen
+afford:sich leisten
+go up, went up, gone up:(Preise) steigen
+go down, went down, gone down:(Preise) fallen, sinken
+lower:Preise senken
+raise:(Preise) erhöhen
+dear:teuer
+cash:Bargeld
+change:Wechselgeld, Kleingeld
+purse:Handtasche AE, Frauegeldbörse (BE)
+change purse:Frauen-Geldbörse
+purchase:kauf, Erwerbung
+purchase:erwerben
+carrier bag Be, shopping bag:Einkaufstasche
+trolley BE, shopping cart AE:Einkaufswagen
+label:Etikett, Aufkleber
+check out:an der Supermarktkasse zahlen
+checkout:Supermarktkasse
+self checkout:Selbsbdienungskasse
+cash desk:Kasse (in normalen Läden)
+cashier:Kassierer
+total:Gesamtbetrag, Summe
+come to, came to, come to:betragen, sich belaufen auf
+receipt:Quittung, Beleg
+complaint:Reklamation
+check against:kontrollieren, mit etw. vergleichen
+construct:bauen, errichten
+construction:Bau, Errichung
+property:Grundbesitz, Immobilienbesitz
+housing:Wohnungen, Wohnraum
+site:Grundstück
+board:Brett
+concrete:aus Beton, Beton-
+concrete:Beton
+timber:Bauholz
+beam:langer, dicker Träger (aus Holz, Stahl, Beton)
+bricklayer:Maurer(in)
+joiner:Tischler(in), Schreiner(in)
+carpenter:Zimmerer(in), Bauschreiner(in)
+painter:Anstreicher(in), Maler(in)
+wall:Wandm Maurer
+ceiling:Zimmerdecke
+roof:Dach
+support:tragen, stützen
+patio, terrace BE:Terasse
+porch:Vorbau, Vordach BE, Veranda AE
+balcony:Balkon
+chimney:Schornstein
+upper:obere(r, s)
+top:Dach-, oberste(r ,s)
+ground floor BE:Erdgeschoss
+the first floor:das Erdgeschoss AE, der erste Stock BE
+ground floor:Erdgeschoss
+the first floor:das Erdgeschoss AE / der erste Stock BE
+cellar:Keller
+basement:Unter-/Kellergeschoss; Souterrain
+attic:Dachboden
+lift BE, elevator AE:Fahrstuhl
+step:Stufe
+staircase:Treppe, Treppenhaus
+banister:Treppengeländer
+landing:Treppenabsatz, Etagenabsatz
+escalator:Rolltreppe
+front:Vorder, Vor-
+back:Hinter-, Rück-
+fence:Zaun
+post:Pfosten
+exterior:Außen-; Fassade (eines Gebäudes)
+interior:Innen-, Innenraum
+driveway:Zufahrt
+entrance:Eingang
+way out BE, exit:Ausgang
+structure:großes Bauwerk
+cottage:Häusschen (auf dem Land), Bauernhaus (a weekend cottage)
+farmhouse:Bauernhaus
+cabin:kleines Holzhaus (im Wald Gebirge), Hütte
+shed:kleiner Lagerschuppen
+bungalow:Bungalow, einstöckiges Haus
+detached house:freistehend Haus, Einzelhaus
+semi-detached house BE, duplex AE:Doppelhaushälfte
+terraced house BE, row house AE:Reihenhaus
+owner-occupied flat BE, condominium AE:Eigentumswohnung, Eigentumswohnanlage
+studio:1-Zimmer Wohnung
+share:teilen, Zusammen bewohnen
+estate:Wohnsiedlung
+council house BE:preiswertes Miethaus
+council flat BE:Sozialwohnung
+bedsit BE, rented room AE:möbiliertes Zimmer
+fursnihed:möbiliert
+own:besitzen
+rent:Miete, mieten, vermieten
+let, let, let BE:vermieten (room to let!)
+landlady, landlord:Vermieter(in)
+tenant:Mieter(in)
+bell:Klingel, Glocke
+ring, rang, rung:Klingeln, Läuten
+shut:geschlossen
+doorbell:Türklingel/Glocke
+hook:Haken, Kleiderhaken
+downstairs:unten (ins Erdgeschoss hinunter)
+upstairs:oben
+cosy:gemütlich
+spare room:Gästezimmer
+fireplace:(offener) Kamin
+heating:Heizung
+radiator:Heizkörper
+bathtub AE, bath BE:Badewanne
+lavatory:Toilette
+loo BE:Klo
+washbasin:Waschbecken
+flush:(das WC)spülen
+curtain:Vorhang
+carpet:Teppich
+decorate:tapezieren, anstreichen
+furnish:möbilieren, einrcihten
+fitted:eingebaut, Einbau-
+go off, went off, gone off:losgehen, klingeln
+mattress:Matratze
+pillow, pillowcase:Kissen, Kissenbezug
+blanket:(Bett)decke
+quilt:Steppdeke, Bettdecke
+bedclothes:Bettwäsche, Bettzeug
+rug:kleiner Teppich
+comfortable:bequem
+armchair:Sessel, Lehnstuhl
+stool:Hocker
+cushion:Sofa/Sitzkissen
+frame:Rahmen
+strike, struck, struck:schlagen
+china:Porzellangeschirr
+vase:Vase
+ashtray:Aschenbecher
+tick:ticken
+cupboard:Schrank
+drawer:Schublade
+box:Schachtel, Kiste
+waredrobe:Kleiderschrank
+closet:Wandschrank, Kleiderschrank
+oven:Backofen
+fridge:Kühlschrank
+cooker BE, stove AE:Herd
+tea towel BE, dish towel AE:Geschirrtuch
+bulb:Glühbirne
+plug:Elektrostecker
+plug in:hineinstecken, anschließen
+socket:Steckdose
+pile:Haufen, Stapel
+collection:Sammlung
+wastepaper basket:Papierkorb
+trash AE, trash can AE, waste bin BE, rubbish bin, garbage can AE:Müll / Mülleimer, Abfalleimer
+dust:kehren
+dust off:abstauben, staub wischen
+duster:Staublappen
+broom:Besen
+vacuum:staubsaugen
+polish:polieren
+iron:Bügeleisen
+the wash, washing BE, laundy:Wäsche
+wash up BE:abspülen, Geschirrsoülen
+dishes:Geschirr
+faucet:Wasserhahn
+sink:Spülbecken, Spüle
+dishwasher:Geschirrspüler
+sink:Spülbecken, Spüle
+cotton:Nähfaden
+thread:Faden
+sew, sewed, swewn:nähen
+sweing machine:Nähmaschine
+light, lit, lit:anzünden
+lighter:Feuerzeug
+torch, flashlight AE:Taschenlampe
+tidy:sauber, ordentlich, aufgeräumt
+clear:aufräumen
+clear out:ausräumen
+tidy tidy up:aufräumen
+bring up, brought up, rought up:aufziehen, erziehen
+raise:auf/großziehen
+member:Mietglied
+parent:Elternteil
+child:Kind
+nuclear family:Kleinfamilie
+extended family:Großfamilie
+patchwork family:Patchworkfamilie
+single parent:Alleinerziehend
+elder:ältere(r,s)
+eldet:älteste(r ,s)
+twin:Ziwlling
+nappy BE, diaper AE:Windel
+pram BE, baby carriage AE:Kinderwagen
+ancestor:Vorfahre/Vorfahring
+relation, relative:verwandte(r), Verwandte(r)
+engaged:verlobt
+bachelor:junggeselle
+fiancée:verlobte
+fiancé:Verlobter
+bride:Braut
+bridegroom:Bräutigam
+honeymoon:Hochzeitsreise
+break off, broke off, broken off:(auf) lösen
+will:Testament, letzter wille
+tribe:Stamm, kleines Volk
+immigrant:Einwanderer, Einwanderin, Immigrantin
+wealth:privater Reichtum, Privatvermögen
+well-off:wohlhabend, begütet
+fortunate:(fiannziell) vom Glück begünstigt
+wealthy:wohlhabend, reich
+prosperity:Wohlstand, wirtschaftlicher Erfolg
+the poverty line:Armutsgrene
+starve:hungern
+starve to death:verhungern
+get by, got by, got by:auskommen, zurechtkommen
+peer:Gleichaltige, Gleichrangige
+mate:Kumpel
+youngster:Kind, Jugendliche(r)
+teens:Jugendjahre
+swot:Streber(in)
+wimp, wuss AE:Schwächling, Waschlappen
+wicked:sehr gut, cool
+gross:krass, widerlich
+get down, got down, got down:fertigmachen, unterkriegen
+chore:lästige Arbeit, Aufgabe, Pflicht
+do the chores:die Hausarbeit erledigen
+pocket money BE, allowance AE:Taschengeld
+elderly:älter
+the elderly:die ältere Generation
+pension:Renter
+senior citizen:Seniorin, älteste Bürger
+old age pension:Altersrente
+social security:Sozialhilfe
+pensioner:Rentner
+retired:pensioniert ,im Ruhestand
+access:Zugang, Zugänglichkeit für (Behinderte)
+impaired:körperlich eingeschränkt/geschädigt
+social security:Sozialhilfe, staatliche sozialversicherung AE
+national insurance:staatliche sozialversicherung
+welfare:soziale fürsorge BE
+welfare state:Wohlfartsstaat
+mutual:gegeinstig, beiderseitig
+hit on, hit on, hit on:anbaggern, jdn. anmachen
+run into, ran into, run into:zufällig treffen
+get on with, got on with, got on with:mit (jdm) auskommen
+call on:sich an (jdn) wenden
+appeal:Aufruf, Appell
+conduct:Benehmen, Verhalten
+respectable:seriös, angesehen
+argument, fight:Streit, Auseinandersetzung
+counsellor:Berater
+misfit:Außenseiter
+neglect:vernachlässigen
+prejudice:Vorurteil
+prejudice:voreingenommen, mit Vorurteilen
+incident:Zwischenfall, Vorfall
+riot:Krawall, Unruhe
+hooligan:Randalierer(in), Rowdy
+battered:misshandelt, verprügelt
+sheltet:Asyl, beschützende Einrichtigung für sozial Benachteiligte, Frauenhaus
+abuse:Missbrauch
+train:eine (Berufliche) Ausbildung machen
+properly:angemessen, ordentlich
+manners:Manieren
+upbringing:Erziehung, Kinderstube
+polite:höflich
+rude:unhöflich, beleidigend
+obey:gehorchen, befolgen
+disobey:sich widersetzen, nicht gehorchen
+encourage:ermutigen, Mut machen
+encouragement:Unterstützung, Förderung
+praise:Lob, loben
+nurture:fördern
+absence:Abwesehenheit, Fehlzeit
+nursery:Kinderkrippe, Kinderhort
+day care center AE:Kindertagesstätte
+nursery school:Kindergarten, Vorschule
+kindergarten AE:Vorschule, Kindergarten
+state school:staatliche Schule
+boarding school:Internatsschule
+foundation stage:Grundlagenstufe (des Schulsystems)
+grammar school:Gymnasium
+comprehensive school:Gesamtschule
+sixth form:Abschlussstufe, Oberstufe
+high school:höhere Schule
+pupil:Schüler(in), Grundschüler AE
+schoolchild:Schulkind, Schüler
+classmate:Klassenkamerad
+headteacher BE, principal AE:Schulleiter
+intermediate:Mittelstufen-
+curriculum:Lehrplan
+schedule, timetable:Studenplan
+require:verlangen, fordern, vorschreiben
+compulsory, required:verpflichtend, pflicht-
+games, physical education:sportunterricht
+vocational:berufsbezogen, beruflich
+leisure:Freizeit(gestaltung)
+wipe:(ab)wischen
+classroom:Klassenzimmer
+board:Tafel, Wandtafel
+ballpoint (pen):Kugelschreiber
+Biro:Kuli
+look up:nachschlagen
+aloud:laut
+trial:versuch
+group work, pair work:Gruppenarbeit, Partnerarbeit
+revise:wiederholen
+drill:gesteuerte Pbung, Drill
+written:schriftlich
+gap:lücke, Leerraum
+complete:ergänzen
+omit:aus-/weglassen
+outline:übersicht, Zusammenfassung
+outline:skizzieren, umreißen
+hand in:abgeben, einreichen
+flunk:durchrasseln, durchfliegen
+school report BE, report card AE:Schulzeugnis
+catch up:aufholen
+student loan:Studiendarlehen
+hall of residence BE, dormitory AE:Studentenwohnheim
+tution:Unterricht, Studiengebühren
+fee:Gebühr
+academic, lecturer BE, instructor:Universitäts/Hochschuldozent
+student union:Studnetenverbindung
+drop out:College/Uni ohne Abschluss velrassen, hinschmeißen
+undergraduate:Student vor dem 1. Hochschullabschluss
+postgraduate:graduiert nach dem 1. Hochschullabschluss
+discipline:wissenschaftliche Disziplin
+guinea pig:Versuchskaninchen
+extensive:im großen Stil, umfangreich
+discover:entdecken
+inherit:erben
+economics:Wirtschaftswissenschaften
+ropes:das was man für eine Arbeitstelle unbedingt wissen muss
+apprentice:Lehrling, Auszubildender
+apprenticeship:Lehre, Lehrzeit
+trainer:Trainer Ausbilder
+application form:Bewerbungsformular
+applicant:Bewerber(in)
+résumé:Lebenslauf
+unsuitable:ungeeignet
+opening:offene Stelle
+offer:Angebot, anbieten
+vacancy:offene Stelle (temporary vacancy)
+temporary:befristet
+steady:fest (steady job)
+self-employed:selbsständig
+civil servant:Beamter
+freelancer:freiberuflicher
+sideline:Nebenjob/tätigkeit
+moonlighting:Nebenjob abends oder am Wochenende
+living:Lebensunterhalt
+knock off:Feierabend machen
+flextime:gleitende Arbeitszeit, Gleitzeit
+overtime:Überstunden, Mehrarbeit
+shift:Schicht
+supervisor:Gruppenleiter(in)
+foreman:Vorarbeiter
+lay off, laid off, laid off:auf Kurzarbeit setzen
+sack:feuern, rausschmeißen
+the sack:Rausschmiss
+collague:Kollege/Kollegin
+labour market:Arbeitsmarkt
+teleworker:Telearbeiter
+white-collar:Angestellten
+blue-collar:Arbeiter-
+co-worker:Arbeitskollege/Kollegin
+jobless, out of work, unemployed:arbeitslos
+the sack:Rausschmiss
+the dole:Arbeitslosenunterstützung
+jobseeker`s allowance, unemployment benefit, unemployment benefits AE:Arbeitslosenunterstützung
+quit:kündigen
+resign:selbst kündigen
+notice:Kündigung
+resignation:Kündigung durch Arbeitnehmer
+retire:in Ruhestand gehen
+wage:Studnen/Tages/Wochen Lohn (daily wage)
+salary:Jahres/Monats Gehalt
+minimum wage:Mindestlohn
+low-paid:Niedriglohn
+badly paid:schlecht bezahlt
+rise BE, raise AE:Gehaltserhöhung
+promote:befördern
+perk:Vergünstigung, freiwillige Leistung
+fringe benefit:Vergünstigung, freiwillige Leistung
+reward:belohnen
+holiday:Urlaub
+time off:freie Tage/Zeit
+day off:freier Tag, Urlaubstag
+lunch break, lunchtime:Mittagspause
+sick leave:Krankheitstage, Genesungsulraub
+maternity leave:Mutterschafts-, Erziehungsurlaub
+paternity leave:Vaterschafts-, Erziehungsurlaub
+strike:Streik
+union:Gewerkschaft
+shop steward BE:Vertrauensmann in Gewerkschaft (im Betrieb)
+union representative AE:Vertrauensmann in Gewerkscaft (im Betrieb)
+harm:Schaden
+hazard:Gefahr, Risiko (occupational hazard = Berufsrisiko)
+leisure:Muße, freie Zeit
+recreation:Freizeitbeschäftigung, Hobby
+leisure centre, recreation center AE:Freizeitzentrum
+recreational:Freizeit
+night out:abenderlicher Ausgang
+pub:Kneipe, Lokal
+Boy scout:Pfadfinder
+Girl Guide BE, Girl Scout AE:Pfadfinderin
+chess piece:Schachfigur
+drauhts BE, checkers:Dame (spiel)
+throw, threw, thrown:würfeln
+turn:Reihenfolge
+dice:Würfel
+pack, deck:Satz Spielkarten
+deal, dealt, dealt:ausgeben, austeilen
+spades:Pik
+hearts:Herz
+diamonds:Karo
+clubs:Kreuz
+darts:Dart (Spiels)
+snooker:sNOOKER Spiel
+indoor:Hallen-
+field, pitch BE:Spielfeld
+course:Platz, Rennbahn (z.B. für Pferde)
+gym:Turnhallte, Fitnessclub
+athletics BE, track and field AE:Leichtathletic
+gymnastics:Gymnastik, Turnen
+referee:Schiedsrichter
+lead:Führung
+down:im Rückstand, zurück
+tie, draw:Unentschieden, Gleichstand
+nil:Null, 0
+beat, beat, beaten:schlagen
+defeat:besiegen, schlagen
+victory:Sieg
+stroke:Schwimmzug
+ice skating:Schlittschuhlaufen
+ice skate:Schlittschuh
+rolelr skating:Rollschuhlaufen
+roller skate:Rollschuh
+in-line skating:inline-skating
+ski:ski fahren, ski
+skiing:skifahren
+interval:Pause (im Theater)
+box office:(Theater/Kino)Kasse
+rehersal:Probe
+part:Rolle
+celebrity:berühmte Persönlichkeit, gefeierter Start
+stage fright:Lampenfieber
+applaud:applaudieren, klatschen
+clap:klatschen
+ovation:Beifall, Applaus, Ovation
+cinema BE, movie theater AE:Kino
+feature film:Hauptfilm
+dub:synchronisieren
+feature:in der Hauptrolle bringen
+sitcom:Situationskomödie
+repeat, rerun:Wiederholung (einer Sendung)
+change, switch over:(Radio, Fernsehprogramm)umschalten
+surf:zappen
+publci holiday , bank holiday:gesetzerlicher Feiertag
+holiday:Feiertag
+occasion:Anlass
+call off:absagen
+parade:Festumzug
+hostess:Gastgeberin
+housewarming:Einweihungsparty
+wedding:Hochzeit
+reception:Hochzeitsfeier
+wrap, wrap up:einwickeln, einpacken
+unwrap:auswickeln/auspacken
+depart:abfahren, abfliegen
+stamp:Stempel
+visa:Visum
+fill in, fill out:ausfüllen
+conduct:durchführen
+customs:Zoll
+inquiry:Erkundigung
+accommodation:Unterkunft, Unterbringung
+accommodations AE:Unterkunft, Unterbringung
+put up, put up, put up:(jdn) aufnehmen/übernachten lassen
+receptionist:Portier, Empfangschef
+porter BE, bellhop AE:Gepäckträger(in), Page
+youth hostel:Jugendherberge
+backpackers' hostel:Herberge für Rucksacke und Billigreisende
+sheet:Bettuch
+convenient:günstig gelegen; praktisch
+self-catering:mit Selbstverpfelgung
+holiday flat:Ferienwohnung
+holiday home:Ferienhaus
+deposit:Kaution
+landlandy:Vermieterin
+landlord:Vermieter
+campsite BE, campground AE:Campingplatz/Zeltplatz
+tent:Zelt
+sleeping bag:Schlafsack
+camper, recreational vehicel AE:Wohnmobil
+local:Stammkneipe
+landlady, landlord:Kneipenwirt
+stool:Hocker
+takeaway:Essen zum Mitnehmen, Imbissbude
+takeout:Essen zum Mitnehmen
+takeout restaurant:Imbissstube/Bude
+check AE:Rechnung
+tip:Trinkgeld
+special:Tagesgericht
+service charge:Bedienungsgeld
+self-service:mit selbstbedienung
+waiter, waitress:Kellner
+toilet BE, restroom AE:öffentliche Toilette
+the gents BE, mens room AE:Herrentoilette
+the Ladies BE, ladies room AE:Damentoilette
+accompany:begleiten
+charge:Genühr
+admission:Eintritt
+ancient:uralt, altertürmlich
+monument:Denkmal, Monument
+contemporary:zeitgenössisch
+painting:Gemälde
+drawing:Zeichnung
+oil painting:Ölgemälde
+sculptor:Bildhauer
+pastel:Pastelfarbe
+imitation:Kopie, Reproduktion
+forgery:Fälschung
+replica:genaue Kopie (z.B. eines Kunstwerks)
+engraving:Radierung, Stich
+flash:Blitz(licht)
+composition:Komposition, Musikstück
+scale:Tonleiter
+tone:Ton
+tune:Stimmung, Melodie
+words:Liedtext
+pitch:Tonhöhe, Stimmlage
+beat:rhythmus
+organ:Orgel
+stringed instrument:Saiteninstrument
+harp:Harfe
+violin:Geige
+woodwind:Holzblasinstrument
+recorder:Blockflöte
+flute:Querflöte
+clarinet:Klarinette
+Saxophon:saxophone
+bagpipes:Dudelsack
+brass:Blechinstrumente
+trumpet:Trompete
+trombone:Posaune
+tuba:Tuba
+conductor:Dirigent
+take place, took place, taken place:stattfinden
+oral:mündlich (überliefert)
+classicism:Klassizimus
+romanticism:die Romantik
+realism:Realismus
+work:Werk
+selection:Auswahl
+literary:literarisch
+masterpiece:Meisterwerk
+writer:Schriftsteller
+manusscript:Manusskript
+draft:Entwurf
+adaption:Adaption, Bearbeitung
+novel:Roman
+historical:historisch
+mystery:Geheimnis, Rätsel
+sentimental:sentimental, übertrieben emotional
+novelist:Romanschriftsteller
+novella:Novelle, Kurzroman
+tale:Geschichte Erzählung Sage
+fairy tale:Märchen
+myth:Mythos
+allegory:Allegorie
+fable:Fabel
+parable:Parabel
+point of view:Standpunkt, Erzählperspektive
+narrator:Erzähler(in)
+omniscient:allwisend
+omniscience:Allwissenheit
+stream of consciousness:Bewusstseinsstrom (Erzähltechnik die die emotionale Innenwelt einer Figur darstellt)
+flashback:Rückblende
+tension:Spannungszustand
+ballad:Balade
+epic:Epos
+nursery rhyme:Kindergedicht/Lied
+simile:Gleichnis, Vergleich
+metaphor:Metapher
+imagery:dichterische Bildsprache, Metaphorik
+metre:Versmaß, Metrum
+stress:Betonung
+flaw:Mangel, Defekt
+play:Theaterstück
+playwright:Dramatiker(in), Stückenschreiber(in)
+dénouement:Auflösung, Ausgang (eines Theaterstückes)
+comic relief:befreiende Komik
+describe:beschreiben
+criticize:kritisieren, rezensieren
+plot:Handlungsführung/-plan
+action:Handlung
+setting:Szenerie, Schauplatz
+mood:Stimmung
+suspense:Spannung, Erwartung, Ungewissheit
+climax:Höhepunkt
+villain:Schurke(nfigur)
+allude:anspielen
+allusion:Anspielung
+euphemism:Euphemismus
+exaggerate:übertreiben
+exaggeration:Übertreibung
+understatement:bewusste Untertreibung
+discourse:Diskurs
+narration:Erzählung
+persusion:Überredung, Beeinflussung
+rhetoric:Rhetorik
+diction:Wortwahl
+register:sprachliches Register, Sprachebene (formal register formelle Sprache, informal register = Umgangssprache)
+literal:wlrtlich
+figurative:bildlich
+connotation:Nebenbedeutung, Assoziation
+custom:Brauch, Sitte
+ancient:alt, antik
+contemporary:zeitgenössich, Zeit-
+BC (before Christus):v. Chr.
+AD (After christus:n. chr.
+present-day:heutig, zeitgenössisch
+succed:folgen, nachfolgen
+royal:königlich
+settle:sich ansiedeln, besiedeln
+settlement:Siedlung, Ansiedlung
+trade:handeln, tauschen
+free:befreien, freilassen
+conquer:erobern, unterwerfen
+emigrate:auswandern
+believe:glauben
+belief:Glaube, Überzeugung
+creation:die Schöpfung
+morals:Moral
+charity:(die) Nächstensliebe
+sin:Sünde
+grace:Gnade
+prophet:Prophet
+saint:Heilige(r)
+holy:heilig
+the gospel:das Evangelium
+Christianity:Christentum
+faith:Glaube
+faith:Bekenntnis
+convert:konvertieren, sich bekehren
+cross:Kreuz
+vicar:Pfarrer
+pope:Papst
+chapel:Kapelle
+synagogue:Synagoge
+mosque:Moschee
+temple:Tempel
+worship:anbeten, verehren
+preach:predigen
+sermon:Predigt
+grace:Tischgebet
+funeral:Beerdigung
+baptize:ein Kind taufen
+baptism:Kinder oder Erwachsenentaufe
+pilgrim:Pilger
+spell:Zauber(spruch)
+superstitious:abergläubig
+pagan:heidnisch Heide, Heidnin
+ritual:Ritual, rituell
+sacrifice:Opfe, opfern
+goddess:Göttin
+fortune:Zukunf, zukünftigische Schicksalt
+reading:Deutung (der Zukunft)
+prediction:VorAUSSAGE; Prophezeihung
+civil rights:Bürgerrechte
+liberty:Frieheits(recht)
+civil liberties:bürgerliche Freiheitsrechte
+declaration:Erklärung, Ausrufung
+constituion:Verfassung, Grundgesetz
+constituional:verfassunggemäß
+legislation:Gesetzgebung
+administration:Verwaltung
+authority:Behörde, Amt
+the authortities:die staatlichen Behörden
+council:Rats(versammlung)
+offical:offiziell, amtlich, Beamter, Beamtin
+officially:offiziell
+local government:Kommunalverwaltung
+mayor:Bürgermeister(in)
+town hall BE, city hall AE:Rathaus
+civil servant:Staatsbeamter, Beamtin
+inspector:Kontrolleur(in)
+public service:staatliche Dienstleistung
+fire brigade BE, fire department AE:Feuerwehr
+fireman, firefighter:Feuerwehrmann
+district:Stadtteil
+property:Eigentum, Besitz
+tax:Steuer, Abgabe
+indirect:indirekt
+income tax:Lohnsteuer
+value added tax BE, sales tax AE:Mehrwertssteuer
+committee:leitender Ausschuss, Komitee
+appoint:ernennen, berufen
+chairperson:Vorsitzende(r)
+people:Volk
+territory:Hoheitsgebiet
+frontier:Grenze
+system:System
+federal:föderal
+progressive:fortschrittlich, progressiv
+campaign:Kampagne, Wahlkampf
+convention:Kongress
+constituency:Wahlkreis, Wählerschaft
+nominate:aufstellen, nominieren
+donation:Spende
+election:Wahl(en)
+general election BE:allgemeine Paralamentswahl
+referendum:Volksabstimmung
+polling station:Wahllokal
+poll:Umfrage
+opinion poll:Meinungsumfrage
+questionnaire:Fragebogen
+crown:Krone
+represent:repräsentieren
+assembly:(gestzgebende) Versammlung
+the House:die Kammer (eines Parlaments)
+the house of Commons:das Unterhaus
+the house of lords:das Oberhaus
+the house of represenatative:das haus der US-Abgeordneten
+the senate:der US-Senat
+member of parliament:Parlamentsabgeordnete(r)
+backbencher:Hinterbänkler im Parlament
+senator:Senator, Mitglied des US-Senats
+the state:der Staat
+administration:Regierung (der USA)
+powerful:mächtig, kraftfoll
+govern:regieren
+majority:Stimmheit
+minority:Minderheit
+oppose:sich widersetzen, dagegen sein
+adviser:Berater(in)
+chancellor:Kanzler(in)
+shadow cabinet:Schattenkabinett
+debate:Debatte
+speech:Rede
+proposal:Vorschlag, Antrag
+motion:förmlicher Antrag
+pass:verabschieden, beschließen
+debate:debatieren
+propose:vorschlagen
+bill:Gesetzesvorlage/entwurf
+the establishment:die oberen Zehntausend, das Establishment
+pressure group, lobby:Lobby, Interessensgruppe, Interessenvertretung, Lobbyarbeit machen
+lobbyist:lobbyist
+torture:Folter, foltern
+overthrow, overthrew, overthrown:absetzen, stürzen
+coup:Staatsstreich, Umstuz
+obey:einhalten, befolgen
+permit:erlauben, genehmigen
+permission:Erlaubnis, Genehmigung
+obtain:bekommen, erlangen
+allow:erlauben, genehmigen
+ban:verbieten
+impose:auferlegen, erlassen
+permit:Erlaubnis, Genehmigung
+prohibit:amitlich verbieten, untersagen
+abolish:abschaffen
+accuse:anklagen, beschuldigen
+charge:Anklage Tatverdacht anklagen
+criminal cour:Strafgericht
+juvenile:jugendlich, Jugendgerricht
+appellate court:Berufungsgericht
+the Supreme Court:das USBundesverfassungsgericht
+sue:verklagen, anklagen
+the accused:der/die Angeklagte(r)
+defendant:Angeklagte(r), Beklagte(r)
+client:Mandat
+case:Rechtsfall, Streitsache
+try:vor Gericht stellen/verhandeln
+trial:Gerichtsverfahren, Prozess
+defend:verteidigen
+defence:Verteidigung
+defence:Entlastung
+object to:Einwände gegen (etw/jdn) erheben
+objection:Einspruch, Einwand
+prosecution:Strafverfolgung, Anklage
+the prosecution:die Anklagebehörde, die Staatsanwaltschaft
+judge:Richter
+magistrate BE:Amtsrichter
+Justice of the Peace:Friedensrichter (AE)
+attorney:Rechtsvertreter, Anwalt
+solicitor BE, barrister BE:Rechtsanwalt/anwältin (für untere Gerichtsinsatenzen)
+barrister: Rechtsanwalt BE (für höhere Gerichtsinstanzen)
+testify:bezeugen, eine Zeugenaussage machen
+confess:zugeben, gestehen
+plead:plädieren, behaupten
+judgement, verdict:Urteil
+sentence:Strafe, verurteilen
+innocent:unschuldig
+clear:von etw. freisprechen
+guilty:schuldig
+convict:verurteilen
+guilt:rechtliche Schuld
+life sentence:lebenslängliche Freiheitsstrafe
+convict:Verurteilter, Strafgefangener
+punish:bestrafen
+penalty:Strafe
+order:anweisen, auferlegen
+fine:Geldstrafe
+police force:Polizeieinheit
+police constable:einfacher Polizist, Wachmeister
+policeman, policewoman:Polizist
+inquiry:Untersuchung, Nachforschung
+clue:Anhaltspunkt
+reveal:enthüllen, Preisgeben
+suspicous:verdächtig
+arrest:festnehmen, verhaften
+raid:Razzia
+offence:Straftat, Vergehen
+offender:Straftäter
+shoplifter:Ladendieb
+thief, pl. thieves:Dieb(in)mugger, Straßenräuber
+mugging:Straßenraub
+rape:Vergewaltigung, vergewaltigung
+domestic:Innen-, Inlands, Innenpolitik
+issue:Frage, Thema, Problem
+wing:Flügel, Seite (des politischen Spektrums)
+foreign:Auslands-, Außen-, Außenpolitik
+establish:einrichten, aufnehmen
+diplomatic relations:diplomatische Beziehungen
+embassy:Botschaft
+ambassdor:Botschafter(in)
+organization:Vereinigung, Organisation
+Middle East:der Nahe Osten
+Far East:Ferne Osten
+Aid:Hilfe, Unterstützung
+developing:Entwicklungs-
+general:(für alel Staaten) verantwortlich, die Vollversammlung (der UN)
+resolution:offizielle Erklärung, Beschluss
+negotiate:verhandeln
+demand:Forderung
+summit:Gipfel-, Gipfel(treffen)
+provoke:Provozieren
+accord:offizielles Abkommen
+treaty:Vertrag, Abkommen
+march:Marsch
+disarmament:Abrüstung
+conscientious objector:Kriegsverweigerer/Wehrdienstverweigerer
+arms control:Rüstungskontrolle
+declare:erklären
+dispute:Streit, Streitigkeit
+struggle:harter Kampf, Ringen
+hostilities:Feindseligkeiten, Kämpfe
+aggression:Angriff, Übergriff, Aggression
+ally:Verbündeter, verbündeter Staat
+allied:alliierte, Allierten
+camp:Feldlager
+volunteer:Freiwilige(r)
+capture:gefangen nehmen
+occupy:besetzen, in Besitz nehmen
+advance:vordringen, vorrücken
+invade:einmarschieren, eindringen
+retreat:geordneter Rückzuck
+ceasefire:Waffenstillstand
+priosoner of war:Kriegsgefangener(r)
+shell:mit Granaten beschießen
+raid:überraschender Blitzangriff
+shelter:Schutz suchen
+exile:Exil
+power station BE, power plant AE:Kraftwerk, E-Werk
+steelworks:Stahlwerk
+steelworker:Stahlarbeiter
+brass:Messing-, Messing
+mill:Fabrik, Werk
+sawmill:Sägewerk
+assembly line:Fließband
+shipyard:Werft
+oilrig:Bohrinsel
+mend:reparieren, in Ordnung bringen
+ladder:Leiter
+pliers:Zange
+spanner BE, wrench AE:Schraubenschlüssel
+drill:Bohrer, Bohrmaschine
+power tool:Elektrowerkzeug
+file:Feile, feilen
+screw:Schraube
+chain saw:Kettensäge
+workshop:Werkstatt
+workman:Handwerker, Arbeiter
+handyman:Handwerker, Heimwerker
+DIY:Heimwerken
+plumber:Installateuer, Klempner
+carpenter:Schreiner, Tischler
+joiner:Zimmerer
+builder:Bauarbeiter
+instructions:Betriebsanleitung
+beam:(Licht)Stahl, Strahlenbünden
+trial:Versuch, Erprobung
+trial run:Versuchsreihe
+office:Büro
+in:da, anwesend
+out:außer Haus, abwesend
+receptionist:Empfangschef, Dame
+photocopier:Kopierer
+fax machine:Fax
+answering machine:Anrufbeantworter
+intercom:Wechselsprechanlage
+diary BE, planner AE:Terminkalender
+tray:Ablagefach/Kob
+desk tidy:Schreibtsich-ORganizer
+hole punch:Locher
+mouse mat, mouse pad AE:Mauspad
+briefcase:Aktentasche, Aktenkoffer
+calendar:Kalender
+supplies:Vorrat, Bedarf
+tape:Band
+glue:Klebstoff
+staple:Heftklammer
+refer to:beziehen auf etw. jdn.
+enclose:beilegen
+paperwork:Papierkram
+filling cabinet:Aktenschrank
+commerce:Handel, Handelsverkehr
+chamber of commerce:Handelskammer
+e-commerce:Handel im Internet, E-Commerce
+overseas:Übersee-, Auslands-
+trade deficit:Handelsdefizit
+market economy:Marktwirtschaft
+market forces:Marktskräfte
+surplus:Überangebot, Pberschuss
+shortfall:Mangel, Knappheit, Defizit
+firm, company:Firma, Gesellschaft
+found:gründen
+conglomerate:Konzern
+human resources:Personalabteilung
+bookkepeping:Buchhaltung
+compete:konkurrieren
+competitive:konkurrenzorientiert, Wettbewerbs-
+competition:Konkurrenz, Wettbewerb
+expand:expandieren, erweitern
+rival:Konkurrent(in), Konkurrenz
+takeover:übernahme, Aufkauf
+merger:Fusion, Zusammenschluss
+executive:leitende(r) Angestellter, Manager
+mbuisnessperson, buisnessman, businesswoman:Geschäftsmann/Frau
+board:Vorstand, Aufsichtsrat
+boost:ankurbeln
+budget:Etat, Haushalt
+balance:Bilanz, Saldo
+goods:Waren, Güter
+reminder:Zahlungserinnerung, Mahnung
+acknowledgement:Empfangsbestätigung
+invoice:Rechnung
+bill:eine Rechnung stellen
+stock:Vorrat, Warenbestand
+in stock / out of stock:vorrätig, nicht vorrätig
+sample:Muster, Probe
+merchandise:Ware(n)
+trade fair:Handelsmesse
+brand mark:Markenname
+trademark:Markenzeichen
+storeroom:Lager
+warehouse:Lagerhaus
+wholesale:Großhandels-
+wholesaler:Großhändler(in)
+retail:Einzelhandel
+retailer:Einzelhändler(in)
+deal in, dealt in, dealt in:handel mit (etw.)
+commission:Provision, Umsatzbeteiligung
+sales rep:Handelsvertreter
+salesperson, salespeople, salesman, saleswoman:Verkäufer
+survey:untersuchen, befragen
+serve:(be)dienen
+fortune:Vermögen, Reichtum
+wealtH:Reichtum, Vermögen
+fiscal year AE, financial year:Rechnungsjahr
+boom:Boom
+recession:Rezession
+loom:sich abzeichnen, sich zusammenbrauen
+increase:Zunahme, Steigerung
+decrease:Abnahme, Zurückgang
+expenses:Ausgaben, Spesen
+banknote BE:Geldschein, Banknote
+bill AE:Geldschein, Banknote
+cheque:Scheck
+cheque book:Scheckheft
+credit card:Kreditkarte
+bank card:Bankkarte
+branch:Filiale
+teller:Kassierer(in)
+banker:leitende(r) Bankangestelleter(r)
+building society BE, savings and loan association AE:Bausparkasse
+statement:Kontoauszug
+current account BE, checking account AE:Girokonto
+deposit account BE, savings account AE:Sparkonto
+bank statement:Kontoauszug
+deposit:Einzahlung
+withdraw, withdrew, withdreawn:abheben
+withdrawal:Geldabhebung
+debit:in Rechnung stellen, belasten
+slip:Formular, Quittung
+overdraft:Konto-Überziehung
+overdrawn:überzogen
+cashpoint BE, ATM AE:Geldautoma
+loan:Kredit, Darlehn
+lend, lent lent:verleihen ausleihen
+borrow:sich leihen
+take out, took out, taken out:Aufnehmen abschließen
+mortage:Hypothek
+terms:Konditionen, Bedingungen
+instalment:Rate
+bankrupt:Bankrott, pleite
+incentive:Anreiz
+practice:Praxis
+long-term:langfristig
+medium-term:mittelfristig
+short-term:kurzfristig
+share:Aktie
+stock:Gesamaktienkapital, Börsenwert
+stock market, stock exchange:Börse
+shareholder:Aktienbesitzer
+securities:Wertpapiere, Effekten
+plummet:abstürzen
+means:Mittel
+means of communication:Kommunikationsmittel
+come up, came up, come up:erscheinen
+put trhough, put through, put through:jdn. verbinden, durchstellen
+hang up, hung up, hung up:auflegen
+phone book, telephone directory:Telefonbuch
+directory enquiries:Telefonauskunft
+information:Telefonauskunft
+message:Nachricht
+answering machine:Anrufbeantworter
+answerphone:Anrufbeantworter
+voicemail:voicemail
+fax:fax
+fax machine:Faxgerät
+snail mail:Schneckenpost
+mail carrier:Briefträger(in)
+postcode BE, zip code AE:Postleitzahl
+postal:Post, postalisch
+envelope:Briefumschlag
+letter:Brief
+contents:Inhalt
+stationery:Schreibzeug, Briefpapier
+postcard:Postkarte
+parcel:Paket, Päckchen
+stamp:Briefmarke
+stick, stuck, stuck:(auf)kleben
+postage:Porto
+postage online:Online Frankierung
+airmail:Luftpost
+express delivery:Eilzustellung
+special delivery:Eilzustellung
+enclose:beilegen, beifügen
+the mass media:die Massenmedien
+brodcast, broadcast, broadcast:ausstrahlen, senden
+coverage:Berichterstattung
+listen:aufhören
+announcer:Ansager(in), Sprecher(in)
+presenter BE:Mderator(in), Showmaster(in)
+channel:Programm
+teletext:Videotext
+television licence:Rundfunkgebühren
+cable, cable television:Kabelfernsehen
+satelite television:Satelitenfernsehen
+satelite dish:Satelitenschüssel
+aerial BE, antenna AE:Antenne
+tabloid:Boulevard, Boulevardzeitung
+leaflet:Prospekt, Flugblatt
+issue:Ausgabe, Nummer
+newsagent:Zeitschriftenhändler(in)
+newsagent`s:Zeitschriftenladen, Zeitungskiosk
+column:Kolumne
+editorial:Leitartikel, Kommentar
+headline:Schlagzeile
+crossword:Kreuzwordrätsel
+comic strip:Comicstrip
+copy:Exemplar
+volume:Band
+hardback:fest gebundenes Buch
+refernce book:Nachschlagewerk
+libarian:Bibliothekar(in)
+appendix:Anhang
+quote:zitieren
+footnote:Fußnote
+excerpt:Auszug
+cassette:Kassette
+stereo:Stereoanlage
+loudspeaker:Lautsprecher
+tape:Ton/Video aufzeichnen, aufnehmen
+mike:Mikrofon
+microphone:Mikrofon
+mainframe:Großrechner
+reader:Lesegerät
+word processor:Textverarbeitungsprogramm
+spreadsheet:Tabellenkalulation
+broadband:Breitband
+run, ran run:fahren, verkehren
+via:über, durch
+catch, caught, caught:erreichen
+miss:verpassen
+due:zu erwarten
+delay:verzögerung, Verspätung
+get off, got off, got off:aussteigen
+get on, got on, got on:einsteigen
+get in, got in, got in:(ins Auto) einsteigen
+get out got out got out:aussteigen
+commute:pendeln
+commuter:Pendler(in)
+aisle:Gang
+round-trip:Rückfahrkarte
+season ticket:Zeitkarte
+fare:Fahrpreis
+get in, got in, got in:ankommen
+timetable BE, schedule:Fahrplan (Bus, Bahn)
+tram BE, streetcar:Straßenbahn
+railway BE, railroad AE:Eisenbahn
+train:Zug
+rail:Bahn
+goods:Güter
+carriage BE, coach AE:Personenwagen
+dining car:Speisewagen
+compartment:(Zug)Abteil
+first class:erste Klasse
+conductor AE, guard BE:Zugschaffner, Zugbegleiter
+baggage reclaim BE, baggage claim:Gepäckausgabe
+cabin:Passagierraum, Kabine
+cabin crew:Flugbegleitpersonal
+flight attendant:Flugbegleiter(in)
+take off, took off, take off:starten, abheben
+fasten:festmachen, anlegen
+seat belt:Sicherheitsgurt
+ferry:Fähre
+steward:Schiffsteward(ess)
+pavement BE, sidewalk:Gehweg, Bürgersteig
+pedestrian:Fußgänger(in)
+crossing:Übergang
+pedestrian crossing BE, crosswalk AE:Zebrastreifen
+subway BE, underpass AE:Fußgängerunterführung
+hitchike:per Anhalter fahren, trampen
+hitchiker:Anhalter, Tramper
+vehicel:Fahrzeug
+bike:Fahrrad
+bike lane:Fahrradspur
+cycle pat BE, bike path AE:Radweg
+van:Lieferwagen
+lorry BE:Lastwagen
+moped:Moped
+motorist:Autofahrer(in)
+driving license BE, drivers license AE:Führerschein
+reverse:rückwärtsfahren
+lift:Mitfahrgelegenheit
+fetch BE:abholen
+garage BE:Autowerkstatt, Tankstelle
+petrol BE, gas AE:Benzin
+petrol station BE:Tankstelle
+service station:Tankstelle AE, Autobahnrasstätte BE
+mechanic:Kfz-Mechaniker
+break down, broke down, broken:eine Panne haben
+tyre:Reifen
+flat:Reifenpanne
+puncture:Reifenpanne
+tow:schleppen
+wreck:Wrack, Schrotthaufen
+steering wheel:Lenkrad
+brake:Bremse
+slam:voll auf etw. treten
+boot BE, trunk AE:Kofferraum
+handbrake BE, parking brake AE:Handbremse
+handle:Griff
+a door handle:ein Türgriff
+bonnet BE, hood AE:Motorhaube
+windscreen BE, wndshield AE:Windscutzscheibe
+windscreen wiper BE, windshield wiper:Scheibenwishcer
+back seat:Rücksitz
+headlight:Scheinwerfer
+rear light BE, tail light AE:Rücklicht
+number plate BE, license plate AE:Nummernschild
+indicator BE, turn signal AE:Blinker
+indicate BE, signal AE:blinken
+horn:Hupe
+honk:hupen
+lane:Stäßchen
+narrow:eng, schmal
+ahead:(da) vorn
+main road BE, highway AE:Hauptstraße, Bundesstraße
+avenue:Allee, breite Hauptstraße
+bend:Kurve
+dual carriageway BE, divided highway AE:Schnellstraße mit getrennten Fahrbahnen
+motorway BE, expressway AE:Autobahn
+lane:Fahrspur
+fast:schnell
+slow:langsam, Kirch
+outside lane BE, passing lane AE:Überholspur
+overtake, overtook, overtake BE, pass AE:überholen
+bridge:Brücke
+one-way:in einer Richtung, Einbahn-
+dead end:Sackgasse
+intersection:Kreuzung
+roadworks BE, road construction AE:Straßenbauarbeiten
+detour:Umweg, Umleitung
+tarmac BE, asphalt:Asphalt
+give way, gave way, given way BE, yield AE:Vorfahrt achten/geben
+road sign:Verkehrsschild
+accident:Unfall
+prevent, avoid:vermeiden, ausweichen
+occur:gescheen, passieren
+keep to, kept to, kept to:einhalten, befolgen
+per:pro
+slippery:rutschig, glatt
+traffic jam:Verkehrsstau
+roundabout: Kreisverkehr (Autos im Kreis haben Vorfahrt)
+traffic circle AE:Kreisverkehr (einfahrende Autos haben vorfahrt)
+car park BE, parking lot:Parkplatz
+packing meter:Parkuhr
+parking ticket:Strafzettel
+traffic warden:Hilfspolizist
+traffic cop:Verkehrspolizist
+sunset:Sonnenuntergang
+dusk:Abenddämmerung
+pole:Pol
+mud:Schlam
+dirt:Schmutz, Dreck
+slope:Berghang, Abhang
+summit:(Berg)Gipfel
+bare:kahl, nackt
+plain:Eben, Flachland
+valley:Tal
+shallow:seicht, flach
+stream:Bächlein, kleiner Fluss
+pond:Teich
+shore:Ufer
+reservoir:Speichersee
+coastal:Küsten-
+the seaside:die (Meeres)Küste
+bay:Bucht
+tide:Gezeiten
+diastrous:verheerend, katastrophal
+volcano:Vulkan
+autumn:der Herbst
+shake, shook, shaken:zittern, schlottern
+fine:schön
+damp:feucht, dampfig
+wet:regnerisch, nass
+spell:Wertterperiode
+humid:feucht, schwül
+fierce:heftig, wild
+strike, struck, struck:treffen einschlagen
+density:Dichte
+solid:fester Stoff, Feststoff
+pure:rein, unvermischt
+sample:Materialprobe
+precious:sehr wertvoll, kostbar
+precious metal:Edelmetall
+miner:Bergarbeiter
+marble:Marmor
+paper:Papier
+power cut BE, power outage AE:Stromausfall, Abschaltung
+wind farm:Windpark
+grid:Stromnetz
+shortage:Mangel, Knappheit
+allotment:Schrebergarten
+lawn:Rasen
+spade:Spaten
+well:Brunnen
+hose:Wasserschlauch, Gartebschlauch
+lawnmower:Rasenmäher
+pile up:aufschichten, auftürmen
+field:Feld, Acker, Wideland
+plot:Stück Land, Grundstück
+soil:Erde
+agriculture:Landwirtschaft
+agricltural:landwirtschaftlich, Landwirtschafts-
+crop:Feldfruch, Ernte
+tractor:Traktor
+plough:Pflug, pflügen
+fertile:fruchbar
+sow, sowed, sown:säen
+cultivate:urbar machen, anbauen
+grain:Getreide
+corn BE:Getreide, Weizen
+maize BE, corn AE:Mais
+wheat:Weizen
+barley:Gerste
+rye:Roggen
+ripe:reif
+harvest:Ernte, erneten
+straw:Stroh
+hay:Heu
+domestic:zahm,Haus
+cattle:Vieh, Rinder
+barn:Kuhstall, Rinderstall
+bull:Bulle
+calf:Kalb
+wildlife:die natürliche Tier- und Pflanzenwelt
+roar:brüllen
+seal:Robbe, Seehund
+nest:Nest
+goose, pl. geese:Gans
+net:(Fischer)netz
+fisherman:Fischer, Angler
+trout pl. trout:Forelle
+salmon pl. salmon:Lachs
+fur:Fell, Pelz
+sting:Stachel, Stich
+vet:Tierarzt/ärztin
+urban:städtisch, Stadt-
+city centre BE, downtown AE:Stadtzentrum, Innenstadt
+suburb:Vorort, Wohngebiet am Stadtrand
+resident:Einheimischer, Einwohner
+crowded:voller menschen, überfüllt
+populated:besiedelt, bewohnt
+inhabitant:Einwohner
+residential:Wohn-
+slum:Slum
+rural:ländlich, Land-
+village BE, small town AE:Dorf
+ecology:Ökologie, Umweltforschung
+emit:emittieren, ausstoßen
+exhaust:Auspuffabgas
+fumes:Abgas(e)
+acid rain:saurerRegen
+harm:schaden, Schaden zufügen
+account for:ausmachen, erklären
+ice cap:Eiskappe, Eisdecke
+erosion:Erosion
+rid:befreit, entlastet
+sewage:Abwasser
+dispose of:beseitigen, entsorgen
+disposal:Besieitgung, Entsorgnung
+dump:Abfallhaufen, Müllkippe, ablagern
+tip BE:Müllkippe
+dustman BE, garbage collector AE:Müllmann
+reusable: wiederverwertbar
+wastepaper:Altpapier
+exploit:ausbeuten, voll nutzen
+eco-friendly:umweltfreundlich
+sustainable:nachhaltig
+situated:gelegen
+presence:Gegenwart, Anwesenheit
+nowhere:nirgendwo
+somewhere:irgendwo
+anywhere:überall, irgendwo
+beside:neben
+apart:voneinander entfernt, auseinander
+beyond:jenseits (von) hinter
+across: gegenüber
+beside:neben
+bottom:unteres Ende
+upside down:auf den Kopf, umgekehrt
+upwards:aufwärts
+downwards:abwärst
+underneath:unterhalb, unter
+within:innerhalb
+towards:in Richtung, auf ... zu
+past:an ... vorbei
+among:unter ,zwischen
+aside:beiseite, zur Seite
+round:um ... herum
+briefly:in Kürze
+century:Jahrhundert
+leap year:Schaltjahr
+anually:jährlich
+spring:Frühling
+autumn:Herbst
+noon:Mittag
+at noon:12 Uhr mittags
+midday:Mittagszeit
+midnight:Mitternacht
+last:dauern
+occasionally:gelegentlich, ab und zu
+rarely:selten, kaum
+seldom:selten
+used to:früher (+ verb)
+sudden:plätzlich
+suddenly:plätzlich
+rapid:schnell, rasch
+prompt:prompt, sofort
+straight away:sofot unverzüglich
+nowadays:heutzutage
+bluish:bläulich
+shaped:geformt
+diamond:Raute
+semicircle:Halbkreis
+circular:Kreisförmig
+cylinder:Zylinder
+cylindrical:zylindrisch
+triangle:Dreieck
+triangular:dreieckig
+rectangle:Rechteck
+rectangular:rechteckig
+cube:Würfel
+oval:Oval
+pile:Haufen
+greatly:sehr, dramatisch
+extent:Ausmaß, Umfang
+rest:Rest, Restliche/Übrige
+either:entwerder, beides, jeder
+numerous:zahlreich
+scales:Waage
+variety:Sorte
+brand:Sorte, Marke
+curcial:extrem wichtig, entscheidend
+correspond to:(einer anderen Sachen) entsprechen
+vital:entscheidend, wesentlich
+minor:weniger wichtig, unbedeutend
+a minor disagreement:eine unbedeutende Meinungsverschiedenheit
+slight:gering, leicht
+certain:bestimmt, gewisst
+former:früher, ehemalig
+latter:letztere(r), s
+possess:(faktisch)besitzen, über etw. verfügen
+possession:Besitz
+due to:aufgrund von; wegen
+on account of:wegen, aufgrund (von=
+order:Zweck, Absicht (in order to)
+just:genau (just like ...)
+alike:ähnliche, gleich
+peculiar:eigenartig, seltsam
+novel:neuartig, neu
+tremendous:gewaltig, enorm
+plain:einfach, bescheiden
+thorough:gründlich
+blank:leer
+well-known:bekannt, berühmt
+definite:bestimmt, fest
+indefinite:unbestimmt
+vague:vage, undeutlich
+spare:Zweit-, Ersatz-, Wechsel- (a spare key)
+odd:einzeln (an odd sock)
+ungerade anzahl:odd number
+gerade anzahl:even number
+ordinary:gewähnlich, normal
+remarkable:bemerkenswert
+extraordinary:außergewöhnlich
+genuine:echt
+merely:bloß, lediglich
+scarcely:kaum
+extent:Ausmaß, Grad
+altogether:total, ganz und gar
+fairly:ziemlich, ganz schön
+gossip:Klatsch, Klatschtante, tratschen
+remark:Bemerkung
+insist on:auf etw. bestehen
+refuse:sich weigern
+persuade:überzeugen, überreden
+convince:überzeugen
+admit:zugeben, eingestehen
+namely:nämlich, das heißt
+piss off BE, fuck off:Verpiss dich!
+pity:Bedauern
+doubt:Zweifel
+neither:auch nicht (neither do i)
+permit:erlauben, gebegnigen
+dare:(es) wagen
+mustn't:darf/Darfs/dürft nicht
+prohibit:verbieten untersagen
+ought:sollte(st) müsstest
+pronunciation:Aussprache
+pronounce:aussprechen
+subordinate caluse:Nebensatz
+determiner:Begleiter (eines Nomens)
+irregular:unregelmäßig
+auxillary verb:Hilfsverb
+idiom:Idiom, feste Redewendung
+abbreviation:Abkürzung
+hyphen:Bindestrich
+colon:Doppelpunkt
+dash:Gedankenstrich
+brackets BE, parantheses AE:Klammern
+qutation marks:Anführungszeichen
+capital:Großbuchstabe
+upper case, lower case:Groß- und kleinbuchstabe
+colloquial:umgangssprachlich
+either:jeder von beiden, beide
+neither:keiner von beiden, beide nicht
+either:entweder
+neither:weder
+in spite of:trotz
+despite:trotz, ungeachtet

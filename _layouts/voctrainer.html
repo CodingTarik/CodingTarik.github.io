@@ -1,0 +1,346 @@
+---
+layout: page
+title: voctrainer
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vocabulary Exercise</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+    }
+    h1 {
+      text-align: center;
+    }
+    .exercise-container {
+      max-width: 500px;
+      
+      margin-bottom: 50 !important;
+      background-color: #ffc802;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin: auto auto 10px;
+    }
+    .question {
+      margin-bottom: 10px;
+      font-weight: bold;
+      color: #000000;
+    }
+    .answer-input {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 10px;
+      border: none;
+      border-radius: 5px;
+      background-color: #f0f0f0;
+      color: black;
+    }
+    .submit-btn {
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .submit-btn:hover {
+      background-color: #45a049;
+    }
+    .next-btn,
+    .restart-btn {
+      padding: 10px;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .next-btn {
+      background-color: #2196F3;
+    }
+    .restart-btn {
+      background-color: #f44336;
+    }
+    .next-btn:hover,
+    .restart-btn:hover {
+      background-color: #1e87db;
+    }
+    .result {
+      margin-top: 20px;
+      font-weight: bold;
+      text-align: center;
+      color: #070707;
+    }
+    .score {
+      text-align: center;
+      font-weight: bold;
+      color: #030303;
+    }
+    .attempts {
+      text-align: center;
+      font-style: italic;
+      color: rgb(0, 0, 0);
+    }
+    .option-btn {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 5px;
+      background-color: #860b22;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .option-btn:hover {
+      background-color: #2bc7e2;
+    }
+    @keyframes fade-in {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+    @keyframes slide-in-right {
+      0% {
+        transform: translateX(50px);
+        opacity: 0;
+      }
+      100% {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }
+    @keyframes slide-in-bottom {
+      0% {
+        transform: translateY(50px);
+        opacity: 0;
+      }
+      100% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+    .fade-in {
+      animation: fade-in 0.5s ease;
+    }
+    .slide-in-right {
+      animation: slide-in-right 0.5s ease;
+    }
+    .slide-in-bottom {
+      animation: slide-in-bottom 0.5s ease;
+    }
+  </style>
+</head>
+<body>
+  <h1>Vocabulary Exercise</h1>
+  <div class="exercise-container">
+    <div class="score fade-in" id="score">Score: 0</div>
+    <div class="attempts fade-in" id="attempts"></div>
+    <div class="question slide-in-right" id="question"></div>
+    <input type="text" class="answer-input slide-in-right" id="answer" placeholder="Enter your answer">
+    <div>
+      <input type="checkbox" id="switch" onchange="switchOption()">
+      <label for="switch">Multiple Choice</label>
+    </div>
+    <div id="option-container" class="fade-in"></div>
+    <button class="submit-btn fade-in" onclick="checkAnswer()">Submit</button>
+    <button class="next-btn fade-in" onclick="nextQuestion()" style="display: none;">Next</button>
+    <button class="restart-btn fade-in" onclick="restartGame()" style="display: none;">Restart</button>
+    <div class="result slide-in-bottom" id="result"></div>
+  </div>
+
+  <script>
+    function loadVocabularyList(callback) {
+      var xhr = new XMLHttpRequest();
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === XMLHttpRequest.DONE) {
+          if (xhr.status === 200) {
+            var text = xhr.responseText;
+            var lines = text.split("\n");
+            var vocabulary = lines.map(function(line) {
+              var parts = line.split(":");
+              return { word: parts[0], translation: parts[1] };
+            });
+            callback(vocabulary);
+          } else {
+            console.error("Failed to fetch vocabulary list");
+            callback([]);
+          }
+        }
+      };
+      xhr.open("GET", "/vocabulary/en_voclist.txt", true);
+      xhr.send();
+    }
+
+    var vocabulary;
+    var currentIndex;
+    var score = 0;
+    var attempts = 0;
+    var maxAttempts = 999;
+
+    function generateQuestion() {
+      currentIndex = Math.floor(Math.random() * vocabulary.length);
+      document.getElementById("question").textContent = vocabulary[currentIndex].word;
+      document.getElementById("answer").value = "";
+      document.getElementById("result").textContent = "";
+      document.getElementById("attempts").textContent = "Attempts left: " + (maxAttempts - attempts);
+      var submitButtons = document.getElementsByClassName("submit-btn");
+      for (var i = 0; i < submitButtons.length; i++) {
+        submitButtons[i].disabled = false;
+      }
+      document.getElementsByClassName("next-btn")[0].style.display = "none";
+      document.getElementById("option-container").innerHTML = "";
+
+      var switchCheckbox = document.getElementById("switch");
+      //if (switchCheckbox.checked) {
+        var options = generateOptions(currentIndex);
+        displayOptions(options);
+        switchOption();
+      //}
+    }
+    function switchOption() {
+  var isChecked = document.getElementById("switch").checked;
+  var optionContainer = document.getElementById("option-container");
+
+  if (isChecked) {
+    optionContainer.style.display = "block";
+  } else {
+    optionContainer.style.display = "none";
+  }
+}
+    function generateOptions(currentIndex) {
+      var options = [];
+      while (options.length < 3) {
+        var randomIndex = Math.floor(Math.random() * vocabulary.length);
+        if (randomIndex !== currentIndex && !options.includes(randomIndex)) {
+          options.push(randomIndex);
+        }
+      }
+      options.push(currentIndex);
+      options.sort(function() { return 0.5 - Math.random(); });
+      return options;
+    }
+
+    function displayOptions(options) {
+      var optionContainer = document.getElementById("option-container");
+      for (var i = 0; i < options.length; i++) {
+        var option = options[i];
+        var button = document.createElement("button");
+        button.textContent = vocabulary[option].translation;
+        button.classList.add("option-btn");
+        button.onclick = function() {
+          checkOption(this.textContent);
+        };
+        optionContainer.appendChild(button);
+      }
+    }
+
+    function checkAnswer() {
+      var userAnswer = document.getElementById("answer").value.trim().toLowerCase();
+      var correctAnswer = vocabulary[currentIndex].translation.trim().toLowerCase();
+      if (userAnswer === correctAnswer) {
+        score++;
+        document.getElementById("result").textContent = "Correct!";
+      } else {
+        attempts++;
+        document.getElementById("result").textContent = "Incorrect! The correct answer is: " + correctAnswer;
+        var submitButtons = document.getElementsByClassName("submit-btn");
+        for (var i = 0; i < submitButtons.length; i++) {
+          submitButtons[i].disabled = true;
+        }
+      }
+      document.getElementsByClassName("next-btn")[0].style.display = "inline-block";
+      updateScore();
+    }
+
+    function checkOption(answer) {
+      var userAnswer = answer.trim().toLowerCase();
+      var correctAnswer = vocabulary[currentIndex].translation.trim().toLowerCase();
+      if (userAnswer === correctAnswer) {
+        score++;
+        document.getElementById("result").textContent = "Correct!";
+      } else {
+        attempts++;
+        document.getElementById("result").textContent = "Incorrect! The correct answer is: " + correctAnswer;
+      }
+      var optionButtons = document.getElementsByClassName("option-btn");
+      for (var i = 0; i < optionButtons.length; i++) {
+        optionButtons[i].disabled = true;
+      }
+      document.getElementsByClassName("next-btn")[0].style.display = "inline-block";
+      updateScore();
+    }
+
+    function nextQuestion() {
+      generateQuestion();
+      if (attempts === maxAttempts) {
+        endGame();
+      }
+    }
+
+    function endGame() {
+      document.getElementById("question").textContent = "Game Over";
+      document.getElementById("answer").disabled = true;
+      var submitButtons = document.getElementsByClassName("submit-btn");
+      for (var i = 0; i < submitButtons.length; i++) {
+        submitButtons[i].disabled = true;
+      }
+      document.getElementsByClassName("next-btn")[0].style.display = "none";
+      document.getElementsByClassName("restart-btn")[0].style.display = "inline-block";
+      document.getElementById("result").textContent = "Final Score: " + score;
+      document.getElementById("attempts").textContent = "Maximum Attempts Reached";
+    }
+
+    function updateScore() {
+      document.getElementById("score").textContent = "Score: " + score;
+    }
+
+    function restartGame() {
+      score = 0;
+      attempts = 0;
+      document.getElementById("answer").disabled = false;
+      var submitButtons = document.getElementsByClassName("submit-btn");
+      for (var i = 0; i < submitButtons.length; i++) {
+        submitButtons[i].disabled = false;
+      }
+      document.getElementsByClassName("next-btn")[0].style.display = "none";
+      document.getElementsByClassName("restart-btn")[0].style.display = "none";
+      document.getElementById("result").textContent = "";
+      document.getElementById("score").textContent = "Score: 0";
+      generateQuestion();
+    }
+
+    loadVocabularyList(function(result) {
+      vocabulary = result;
+      if (vocabulary.length > 0) {
+        generateQuestion();
+      }
+    });
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

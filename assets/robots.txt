@@ -7,10 +7,13 @@ User-agent: *
 
 Disallow: /norobots/
 Disallow: /impressum
+Disallow: /impressum.html
 Disallow: /impressum/
 Disallow: /datenschutz
+Disallow: /datenschutz.html
 Disallow: /datenschutz/
 Disallow: /impressum.html
 Disallow: /datenschutz.html
+Disallow: /vocabulary/
 
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
