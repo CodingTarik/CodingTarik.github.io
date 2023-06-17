@@ -4,9 +4,10 @@ description: ""
 date: 2023-05-22T18:46:06.100Z
 preview: ""
 tags: []
-categories: [Promella]
-pin: true
+categories: [Studies, FMSE]
 math: true
+image:
+  path: /assets/postimgs/OIG (1).jpg
 ---
 **This is a summary of linear temporal logic lecture held by Reiner Hähnle at TU Darmstadt. Also this whole post has
 his slides as source.**
@@ -80,7 +81,7 @@ The valuation function assigns specific truth values to the truth constants:
 
 - valI(true) = T
 - valI(false) = F
-  
+
 ### Connectives
 
 The valuation function for different connectives is as follows:

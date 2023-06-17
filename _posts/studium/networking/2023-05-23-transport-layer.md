@@ -4,7 +4,7 @@ description: "Exploring the functionalities and protocols of the Transport Layer
 date: 2023-05-23T18:46:06.100Z
 preview: "Understanding the key role of the Transport Layer in network communication."
 tags: [Networking, Internet]
-categories: [Networking]
+categories: [Studies, Networking]
 math: true
 image:
   path: /assets/postimgs/tcp.jpg
@@ -19,7 +19,8 @@ The Transport Layer plays a critical role in facilitating communication between 
 To ensure efficient transmission of data, the Transport Layer performs the task of segmentation and reassembly. When an application sends a message, the Transport Layer breaks it into smaller units called segments. This segmentation allows for optimized transmission, as in the case of a lost segment, only that specific segment needs to be resent instead of the entire message.
 
 > **Info:** Segmentation and reassembly in the Transport Layer enable efficient transmission by minimizing the retransmission overhead in case of lost segments.
-{: .prompt-info}
+> {: .prompt-info}
+
 ## Available Transport Layer Protocols
 
 The Transport Layer offers several protocols, each catering to different requirements. Two widely used protocols are TCP (Transmission Control Protocol) and UDP (User Datagram Protocol). Additionally, Google's QUIC (Quick UDP Internet Connections) protocol has gained prominence in recent years.
@@ -29,13 +30,15 @@ The Transport Layer offers several protocols, each catering to different require
 TCP is a reliable and connection-oriented protocol. It incorporates features like congestion control, flow control, and connection setup/tear down. Congestion control ensures that the network does not become overloaded with data, while flow control manages the rate of data transmission between the sender and receiver. TCP guarantees the ordered and error-free delivery of data.
 
 > **Info:** TCP provides reliable and ordered delivery of data, making it suitable for applications that prioritize accuracy and completeness of data transmission.
-{: .prompt-tip}
+> {: .prompt-tip}
+
 ### UDP: Lightweight and Connectionless
 
 In contrast, UDP is a lightweight and connectionless protocol. It offers simplicity and lower overhead compared to TCP but sacrifices reliability and ordered delivery. UDP is commonly used in applications where real-time or near real-time data transmission is crucial, such as streaming media or online gaming.
 
 > **Info:** UDP offers low-latency communication, making it ideal for time-sensitive applications, but it does not guarantee reliability or ordered delivery of data.
-{: .prompt-info}
+> {: .prompt-info}
+
 ## Limitations and Considerations
 
 While the Transport Layer provides vital services for end-to-end communication, it does have certain limitations and considerations to keep in mind.
@@ -43,12 +46,13 @@ While the Transport Layer provides vital services for end-to-end communication, 
 - Delay and Bandwidth Guarantees: Transport Layer protocols, including TCP and UDP, do not provide guarantees regarding delay or bandwidth. Network conditions, congestion, and other factors can affect the actual performance and delivery time of data.
 
 > **Info:** The Transport Layer's performance is subject to various factors, and delays or bandwidth variations may occur due to network conditions.
-{: .prompt-warning}
+> {: .prompt-warning}
 
 - IP Packet Size and Segmentation: IP packets have a maximum size of 64KB, including headers. If the Service Data Units (SDUs) to be transmitted exceed this limit, they need to be segmented and reassembled. The Transport Layer divides larger SDUs into smaller units and ensures the integrity of the original data during reassembly at the receiving end.
 
 > **Info:** Segmentation and reassembly in the Transport Layer handle the transmission of larger SDUs, ensuring the integrity of the data while adhering to the IP packet size limit.
-{: .prompt-info}
+> {: .prompt-info}
+
 ## Service Access Points (SAPs) and Connection Endpoints (CEPs)
 
 In networking, a Service Access Point (SAP) serves as an interface for
@@ -58,10 +62,11 @@ In networking, a Service Access Point (SAP) serves as an interface for
 A Connection Endpoint (CEP) refers to an endpoint of a connection between two network nodes. It is a concept employed in OSI network technology.
 
 > **Info:** SAPs and CEPs are fundamental components that facilitate communication between network layers and establish connections between endpoints.
-{: .prompt-info}
-In conclusion, the Transport Layer serves as a vital bridge between processes running on different hosts, providing logical communication channels and managing the efficient delivery of data. TCP and UDP are widely adopted protocols within this layer, each offering distinct trade-offs in terms of reliability and overhead. By comprehending the functionalities and protocols of the Transport Layer, we can ensure effective and reliable communication in networked environments.
+> {: .prompt-info}
+> In conclusion, the Transport Layer serves as a vital bridge between processes running on different hosts, providing logical communication channels and managing the efficient delivery of data. TCP and UDP are widely adopted protocols within this layer, each offering distinct trade-offs in terms of reliability and overhead. By comprehending the functionalities and protocols of the Transport Layer, we can ensure effective and reliable communication in networked environments.
 
 Here are some examples:
+
 - SAP: In OSI network technology, an example of a SAP is the interface between the application layer and the presentation layer.
 - CEP: An example of a CEP is a computer accessing a website over the Internet.
 
