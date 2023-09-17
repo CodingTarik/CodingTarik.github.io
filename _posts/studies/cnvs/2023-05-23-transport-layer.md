@@ -4,7 +4,7 @@ description: "Exploring the functionalities and protocols of the Transport Layer
 date: 2023-05-23T18:46:06.100Z
 preview: "Understanding the key role of the Transport Layer in network communication."
 tags: [Networking, Internet]
-categories: [Studies, Networking]
+categories: [Studies, CNVS]
 math: true
 image:
   path: /assets/postimgs/tcp.jpg

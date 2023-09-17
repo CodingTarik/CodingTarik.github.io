@@ -1,7 +1,7 @@
 ---
 Author: CodingTarik  
 Date: 2023-05-19 20:55:00 +0800  
-categories: [linux]
+categories: [cs, linux]
 tags: [capabilities, Linux security]
 title: "Capabilities in Linux"
 image: 
