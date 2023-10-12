@@ -24,48 +24,48 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest  # Ändern Sie die Ausführungsumgebung auf Windows
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2  # Verwenden Sie die Version 2 von actions/checkout
         with:
-          fetch-depth: 0
-          # submodules: true
-          # If using the 'assets' git submodule from Chirpy Starter, uncomment above
-          # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
+          fetch-depth: 0  # Abholen des gesamten Repository-Verlaufs
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v3  # Konfiguration für GitHub Pages
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3   # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
+          ruby-version: 3   # Lassen Sie dies unverändert, da Ruby auf Windows unterstützt wird
           bundler-cache: true
 
+      - name: Install Jekyll
+        run: gem install jekyll  # Installieren von Jekyll
+
       - name: Build site
-        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+        run: jekyll b -d "_site${{ steps.pages.outputs.base_path }}"  # Ändern Sie "bundle exec jekyll" zu "jekyll"
         env:
           JEKYLL_ENV: "development"
 
-     # - name: Test site
-        #run: |
-          #bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
-
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-artifact@v2  # Hochladen des Build-Artefakts
         with:
-          path: "_site${{ steps.pages.outputs.base_path }}"
+          name: site
+          path: "_site${{ steps.pages.outputs.base_path }}"  # Benennen des Artefakts und Festlegen des Pfads
 
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
+    runs-on: windows-latest  # Ändern Sie die Ausführungsumgebung auf Windows
+    needs: build  # Dieser Schritt hängt von "build" ab und wartet auf dessen Abschluss
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/upload-artifact@v2  # Hochladen des Artefakts zur Bereitstellung auf GitHub Pages
+        with:
+          name: site
+          path: "_site${{ steps.pages.outputs.base_path }}"  # Benennen des Artefakts und Festlegen des Pfads
