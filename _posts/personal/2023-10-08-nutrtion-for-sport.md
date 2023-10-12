@@ -100,7 +100,6 @@ The recommended macronutrient distribution can vary depending on your goals and 
 - **Fats:** Approximately 20-30% of your daily calorie intake. For example, with 2,000 calories per day, about 400-600 calories (44-66 grams) should come from fats.
 
 These values can be adjusted based on your goals and preferences. It's important to tailor your diet to your individual needs and goals and consult with a nutritionist or fitness expert if needed.
-
 <div>
     <h1>Calorie Calculator for Muscle Building</h1>
     <form id="calorieCalculator">
