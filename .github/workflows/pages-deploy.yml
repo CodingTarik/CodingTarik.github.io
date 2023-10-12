@@ -30,7 +30,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2  # Verwenden Sie die Version 2 von actions/checkout
         with:
-          fetch-depth: 0  # Abholen des gesamten Repository-Verlaufs
+       https://github.com/CodingTarik/codingtarik.github.io/actions/runs/6497355455/job/17646282567#logs   fetch-depth: 0  # Abholen des gesamten Repository-Verlaufs
 
       - name: Setup Pages
         id: pages
@@ -46,7 +46,7 @@ jobs:
         run: gem install jekyll  # Installieren von Jekyll
 
       - name: Build site
-        run: jekyll b -d "_site${{ steps.pages.outputs.base_path }}"  # Ändern Sie "bundle exec jekyll" zu "jekyll"
+        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"  # Ändern Sie "bundle exec jekyll" zu "jekyll"
         env:
           JEKYLL_ENV: "development"
 
