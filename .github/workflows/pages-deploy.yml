@@ -64,8 +64,5 @@ jobs:
     needs: build  # Dieser Schritt hängt von "build" ab und wartet auf dessen Abschluss
     steps:
       - name: Deploy to GitHub Pages
-        id: upload
-        uses: actions/upload-artifact@v2  # Hochladen des Artefakts zur Bereitstellung auf GitHub Pages
-        with:
-          name: site
-          path: "_site${{ steps.pages.outputs.base_path }}"  # Benennen des Artefakts und Festlegen des Pfads
+        id: deployment
+        uses: actions/deploy-pages@v2
