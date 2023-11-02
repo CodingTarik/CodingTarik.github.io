@@ -1,25 +1,16 @@
 # CDNs
-
 cdns:
   # Google Fonts
-  #- url: https://fonts.googleapis.com
-  #- url: https://fonts.gstatic.com
-  #args: crossorigin
-  - url: https://cdn.jsdelivr.net
-
-# fonts
-webfonts: /assets/css/fonts.css # https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;900&display=swap
- 
-  - url: https://fonts.googleapis.com
-  - url: https://fonts.gstatic.com
-    args: crossorigin
-  - url: https://fonts.googleapis.com
+  # - url: https://fonts.googleapis.com
+  # - url: https://fonts.gstatic.com
+  #  args: crossorigin
+  # - url: https://fonts.googleapis.com
   # jsDelivr CDN
   - url: https://cdn.jsdelivr.net
 
 # fonts
+webfonts: /assets/css/fonts.css # https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;900&display=swap
 
-webfonts: https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;700;900&display=swap
 
 # Libraries
 

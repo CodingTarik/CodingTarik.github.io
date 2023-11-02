@@ -4,26 +4,29 @@ author: cotes
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
-draft: true
 math: true
 mermaid: true
-#image:
-  #path: /commons/devices-mockup.png
-  #lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  #alt: Responsive rendering of Chirpy theme on multiple devices.
+image:
+  path: /commons/devices-mockup.png
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
 ## Headings
 
-<h1 class="mt-5">H1 - heading</h1>
+# H1 - heading
+{: .mt-4 .mb-0 }
 
-<h2 data-toc-skip>H2 - heading</h2>
+## H2 - heading
+{: data-toc-skip='' .mt-4 .mb-0 }
 
-<h3 data-toc-skip>H3 - heading</h3>
+### H3 - heading
+{: data-toc-skip='' .mt-4 .mb-0 }
 
-<h4>H4 - heading</h4>
+#### H4 - heading
+{: data-toc-skip='' .mt-4 }
 
 ## Paragraph
 
@@ -65,21 +68,21 @@ Moon
 ## Prompts
 
 > An example showing the `tip` type prompt.
-> {: .prompt-tip }
+{: .prompt-tip }
 
 > An example showing the `info` type prompt.
-> {: .prompt-info }
+{: .prompt-info }
 
 > An example showing the `warning` type prompt.
-> {: .prompt-warning }
+{: .prompt-warning }
 
 > An example showing the `danger` type prompt.
-> {: .prompt-danger }
+{: .prompt-danger }
 
 ## Tables
 
 | Company                      | Contact          | Country |
-|:---------------------------- |:---------------- | -------:|
+|:-----------------------------|:-----------------|--------:|
 | Alfreds Futterkiste          | Maria Anders     | Germany |
 | Island Trading               | Helen Bennett    | UK      |
 | Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
@@ -124,7 +127,6 @@ fi;
   "colors/light-typography",
   "colors/dark-typography";
 ```
-
 {: file='_sass/jekyll-theme-chirpy.scss'}
 
 ## Mathematics
@@ -140,7 +142,7 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 ## Mermaid SVG
 
 ```mermaid
-gantt
+ gantt
   title  Adding GANTT diagram functionality to mermaid
   apple :a, 2017-07-20, 1w
   banana :crit, b, 2017-07-23, 1d
