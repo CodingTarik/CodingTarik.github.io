@@ -55,18 +55,6 @@
       "path": "[[workspace]]/_posts"
     }
   ],
-  "frontMatter.taxonomy.tags": [
-    "Linux security",
-    "capabilities",
-    "robotic",
-    "typography"
-  ],
-  "frontMatter.taxonomy.categories": [
-    "Blogging",
-    "Demo",
-    "robotic",
-    "studies"
-  ],
   "frontMatter.content.snippets": {
     "Filepath": {
       "description": "",
