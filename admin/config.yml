@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: CodingTarik/codingtarik.github.io
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'assets/postimgs'
