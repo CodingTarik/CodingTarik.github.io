@@ -2,20 +2,91 @@ backend:
   name: github
   repo: CodingTarik/codingtarik.github.io
   branch: main # Branch to update (optional; defaults to master)
-media_folder: 'assets/postimgs'
+media_folder: "assets/postimgs"
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: '_posts/'
-    nested:
-        depth: 8
+  - name: "personal"
+    label: "Personal"
+    folder: "_posts/personal"
     create: true
-    nested:
-      depth: 10
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - { name: Title }
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "string", required: false}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "string",
+          required: false
+        }
+  - name: "tutorials"
+    label: "Tutorials"
+    folder: "_posts/tutorials"
+    nested:
+      depth: 3
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { name: Title }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "string",
+          required: false
+        }
+  - name: "studies"
+    label: "Studies"
+    folder: "_posts/studies"
+    nested:
+      depth: 3
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { name: Title }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "string",
+          required: false
+        }
+  - name: "english"
+    label: "Englisch"
+    folder: "_posts/english"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { name: Title }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "string",
+          required: false
+        }
+  - name: "cs"
+    label: "Compiter Science"
+    folder: "_posts/cs"
+    nested:
+      depth: 2
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { name: Title }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string", tagname: "h1" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "string",
+          required: false
+        }
