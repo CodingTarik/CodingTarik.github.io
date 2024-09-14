@@ -8,6 +8,8 @@ collections:
     label: 'Blog'
     folder: '_posts/'
     create: true
+    nested:
+      depth: 10
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - { name: Title }
