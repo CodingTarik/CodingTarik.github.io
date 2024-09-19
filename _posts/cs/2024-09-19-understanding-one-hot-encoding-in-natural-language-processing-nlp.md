@@ -176,7 +176,3 @@ One-Hot Encoding is suitable for small-scale projects or as an initial step in t
 ### **Conclusion**
 
 One-Hot Encoding is a foundational technique in NLP for converting text data into numerical format. Although it has limitations, it is a simple and effective method to start with, especially for small datasets. As you move towards more advanced NLP tasks, exploring other encoding techniques like word embeddings will be beneficial.
-
----
-
-Feel free to use or modify this article to fit your specific needs!
